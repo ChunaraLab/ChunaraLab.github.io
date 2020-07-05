@@ -8,4 +8,3 @@ This repository contains information about the tutorial [Machine Learning in Pop
 
 
 # REFERENCES
-{% bibliography --cited --file MLPH/mlph_references.bib  %}
