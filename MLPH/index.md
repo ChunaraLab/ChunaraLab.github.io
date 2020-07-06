@@ -7,7 +7,7 @@ This repository contains information about the tutorial [Machine Learning in Pop
 
 
 
-# [create an anchor] (TAXONOMY-)
+# TAXONOMY
 
 ## Identification
 1. Disease incidence at population level
