@@ -7,7 +7,7 @@ This repository contains information about the tutorial [Machine Learning in Pop
 
 
 
-# TAXONOMY
+# [TAXONOMY](#tasks-in-public-health)
 
 ## Identification
 1. Disease incidence at population level
