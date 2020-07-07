@@ -1,8 +1,3 @@
-title: 
-show_downloads: false
-google_analytics:
-remote_theme: pmarsceill/just-the-docs
-heading_anchors: true
 
 
 title: Machine Learning Opportunities in Public Health
@@ -67,3 +62,5 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
+
+remote_theme: pmarsceill/just-the-docs
