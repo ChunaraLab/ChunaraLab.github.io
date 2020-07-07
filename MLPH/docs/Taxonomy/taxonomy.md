@@ -12,4 +12,3 @@ Public health and healthcare tasks can be grouped as follows:
 2. Design
 3. Prediction
 4. Allocation
-{: .fs-6 .fw-300 }
