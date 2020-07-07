@@ -2,7 +2,7 @@
 
 #title: Machine Learning Opportunities in Public Health
 #remote_theme: pmarsceill/just-the-docs
-theme: cayman
+theme: jekyll-theme-cayman
 
 #color_scheme: "light"
 search_enabled: false
