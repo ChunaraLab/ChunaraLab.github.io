@@ -7,3 +7,4 @@ color_scheme: "light"
 search_enabled: false
 
 heading_anchors: true
+permalink: pretty
