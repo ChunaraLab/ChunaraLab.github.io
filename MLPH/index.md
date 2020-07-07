@@ -18,7 +18,7 @@ This repository contains information about the tutorial [Machine Learning in Pop
 
 
 
-## TAXONOMY
+## TAXONOMY [](#table-of-contents)
 Public health and healthcare tasks.
 
 ### Identification
