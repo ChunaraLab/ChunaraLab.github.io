@@ -18,7 +18,7 @@ This repository contains information about the tutorial [Machine Learning in Pop
 
 
 
-## TAXONOMY [](#table-of-contents)
+## TAXONOMY
 Public health and healthcare tasks.
 
 ### Identification
@@ -55,7 +55,7 @@ Public health and healthcare tasks.
  * [Zink, Anna, and Sherri Rose. "Fair regression for health care spending." Biometrics (2019).](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13206?casa_token=oHkCsdUBcFYAAAAA:7IF1LBK-6dIzdc91k_0UJI7EQVC4zoPZATmrvOgsN_8M-rq0MZwlN0mnkCTu5UdgqdAOsXaN96cILA)
  * [Rose, Sherri. "A machine learning framework for plan payment risk adjustment." Health services research 51.6 (2016): 2358-2374.](https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.12464)
  * [Park, Sungchul, and Anirban Basu. "Alternative evaluation metrics for risk adjustment methods." Health economics 27.6 (2018): 984-1010.](https://onlinelibrary.wiley.com/doi/abs/10.1002/hec.3657)
- * [Shrestha, Akritee, et al. "Mental health risk adjustment with clinical categories and machine learning." Health services research 53 (2018): 3189-3206.](https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.12818)
+ * [Shrestha, Akritee, et al. "Mental health risk adjustment with clinical categories and machine learning." Health services research 53 (2018): 3189-3206.](https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.12818)  [Return to top](#table-of-contents)
  
 
 ### Designing
@@ -67,7 +67,7 @@ Public health and healthcare tasks.
  * [Ahsan, GM Tanimul, et al. "Toward an mHealth intervention for smoking cessation." 2013 IEEE 37th Annual Computer Software and Applications Conference Workshops. IEEE, 2013.](https://ieeexplore.ieee.org/abstract/document/6605814)
 
 3. Public Policy
- * [Braveman, Paula A., et al. "An approach to studying social disparities in health and health care." American Journal of Public Health 94.12 (2004): 2139-2148.](https://ajph.aphapublications.org/doi/full/10.2105/AJPH.94.12.2139)
+ * [Braveman, Paula A., et al. "An approach to studying social disparities in health and health care." American Journal of Public Health 94.12 (2004): 2139-2148.](https://ajph.aphapublications.org/doi/full/10.2105/AJPH.94.12.2139)  [Return to top](#table-of-contents)
 
 
 
@@ -99,7 +99,7 @@ Public health and healthcare tasks.
  * [Larney, Sarah, et al. "Using routinely collected data to understand and predict adverse outcomes in opioid agonist treatment: Protocol for the Opioid Agonist Treatment Safety (OATS) Study." BMJ open 8.8 (2018): e025204.](https://bmjopen.bmj.com/content/8/8/e025204.abstract)
  * [Tighe, Patrick J., et al. "Teaching a machine to feel postoperative pain: combining high-dimensional clinical data with machine learning algorithms to forecast acute postoperative pain." Pain Medicine 16.7 (2015): 1386-1401.](https://academic.oup.com/painmedicine/article-abstract/16/7/1386/1918425)
  * [Lau, Lawrence, et al. "Machine-learning algorithms predict graft failure after liver transplantation." Transplantation 101.4 (2017): e125-e132.](https://journals.lww.com/transplantjournal/FullText/2017/04000/Machine_Learning_Algorithms_Predict_Graft_Failure.25.aspx)
- * [Zhang, Zhongheng, Kwok M. Ho, and Yucai Hong. "Machine learning for the prediction of volume responsiveness in patients with oliguric acute kidney injury in critical care." Critical Care 23.1 (2019): 112.](https://link.springer.com/article/10.1186/s13054-019-2411-z)
+ * [Zhang, Zhongheng, Kwok M. Ho, and Yucai Hong. "Machine learning for the prediction of volume responsiveness in patients with oliguric acute kidney injury in critical care." Critical Care 23.1 (2019): 112.](https://link.springer.com/article/10.1186/s13054-019-2411-z)  [Return to top](#table-of-contents)
  
 
 
@@ -125,5 +125,5 @@ Public health and healthcare tasks.
 4. Care management at individual and population level 
  * [Chacko, Jerel, et al. "Effect of an emergency department opioid prescription policy on prescribing patterns." The American Journal of Emergency Medicine 35.9 (2017): 1327-1329.](https://www.sciencedirect.com/science/article/pii/S0735675717304680)
  * [Osborn, Scott R., et al. "Changes in provider prescribing patterns after implementation of an emergency department prescription opioid policy." The Journal of emergency medicine 52.4 (2017): 538-546.](https://www.sciencedirect.com/science/article/pii/S073646791630988X)
- * [Kucukarslan, S., et al. "Points to consider about prescription drug prices: an overview of federal policy and pricing studies." Clinical therapeutics 15.4 (1993): 726.](https://www.ncbi.nlm.nih.gov/pubmed/8221823)
+ * [Kucukarslan, S., et al. "Points to consider about prescription drug prices: an overview of federal policy and pricing studies." Clinical therapeutics 15.4 (1993): 726.](https://www.ncbi.nlm.nih.gov/pubmed/8221823)  [Return to top](#table-of-contents)
 
