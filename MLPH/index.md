@@ -29,7 +29,7 @@ Public health and healthcare tasks.
 1. Disease incidence at population level
   * [Bhatt, Samir, et al. "The global distribution and burden of dengue." Nature 496.7446 (2013): 504-507.](https://www.nature.com/articles/nature12060?page=32)
 2. Disease detection including behaviors and markers
-  * [Gulshan, Varun, et al. "Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs." Jama 316.22 (2016): 2402-2410.](https://jamanetwork.com/journals/jama/article-abstract/2588763)
+  * Gulshan, Varun, et al. "Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs." Jama 316.22 (2016): 2402-2410.[pdf](https://jamanetwork.com/journals/jama/article-abstract/2588763)
   * [Lu, Jen-Tang, et al. "Deepspine: Automated lumbar vertebral segmentation, disc-level designation, and spinal stenosis grading using deep learning." arXiv preprint arXiv:1807.10215 (2018).](https://arxiv.org/abs/1807.10215)
   * [Paul, H. Yi, et al. "Deep Learning-Based Identification Of Traditional Hip, Knee, and Shoulder Arthroplasty and Application to Alternative Arthroplasty Designs." (2018).](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/5b737c761ae6cf102e2857d6/1534295158812/Arthroplasty+Identification+MLHC+2018+FINAL.pdf)
   * [M. Hu et al., "Learning to Recognize Chest-Xray Images Faster and More Efficiently Based on Multi-Kernel Depthwise Convolution," in IEEE Access, vol. 8, pp. 37265-37274, 2020, doi: 10.1109/ACCESS.2020.2974242.](https://ieeexplore.ieee.org/abstract/document/9000602)
