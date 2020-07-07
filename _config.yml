@@ -6,7 +6,6 @@ url: "https://ChunaraLab.github.io" # the base hostname & protocol for your site
 
 permalink: pretty
 
-search_enabled: true
 
 # Enable or disable heading anchors
 heading_anchors: true
