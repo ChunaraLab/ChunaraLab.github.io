@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Machine Learning Opportunities in Public Health
+title: Home
 nav_order: 1
 description: 
 permalink: /
