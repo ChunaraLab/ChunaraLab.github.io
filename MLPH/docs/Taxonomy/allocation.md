@@ -28,4 +28,3 @@ nav_order: 4
  * [Osborn, Scott R., et al. "Changes in provider prescribing patterns after implementation of an emergency department prescription opioid policy." The Journal of emergency medicine 52.4 (2017): 538-546.](https://www.sciencedirect.com/science/article/pii/S073646791630988X)
  * [Kucukarslan, S., et al. "Points to consider about prescription drug prices: an overview of federal policy and pricing studies." Clinical therapeutics 15.4 (1993): 726.](https://www.ncbi.nlm.nih.gov/pubmed/8221823)
 
-s
