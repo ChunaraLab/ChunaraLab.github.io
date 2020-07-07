@@ -26,7 +26,7 @@ Public health and healthcare tasks.
 ### Identification
 {: .d-block}
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to expand!</summary><p>
 
 
 1. Disease incidence at population level
@@ -65,7 +65,7 @@ Public health and healthcare tasks.
  * [Shrestha, Akritee, et al. "Mental health risk adjustment with clinical categories and machine learning." Health services research 53 (2018): 3189-3206.](https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.12818)  
  
  [Return to top](#table-of-contents)
- </details>
+ </p></details>
 
 
 ### Designing
