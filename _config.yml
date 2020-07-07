@@ -1,10 +1,10 @@
 
 
 #title: Machine Learning Opportunities in Public Health
-remote_theme: pmarsceill/just-the-docs
+#remote_theme: pmarsceill/just-the-docs
+theme: cayman
 
-
-color_scheme: "light"
+#color_scheme: "light"
 search_enabled: false
 
 heading_anchors: true
@@ -12,6 +12,3 @@ permalink: pretty
 nav_sort: case_insensitive # default, equivalent to nil
 back_to_top: true
 back_to_top_text: "Back to top"
-
-
-display: block
