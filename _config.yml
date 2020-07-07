@@ -1,5 +1,5 @@
 title: Machine Learning Opportunities in Public Health
 show_downloads: false
 google_analytics:
-remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
 heading_anchors: true
