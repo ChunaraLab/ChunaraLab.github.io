@@ -11,3 +11,11 @@ permalink: pretty
 nav_sort: case_insensitive # default, equivalent to nil
 back_to_top: true
 back_to_top_text: "Back to top"
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
