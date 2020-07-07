@@ -1,3 +1,9 @@
+---
+layout: default
+title: Prediction
+parent: Taxonomy
+nav_order: 3
+---
 ## Prediction
 
 1. Risk scores (clincal algorithms)
@@ -28,18 +34,3 @@
  * [Lau, Lawrence, et al. "Machine-learning algorithms predict graft failure after liver transplantation." Transplantation 101.4 (2017): e125-e132.](https://journals.lww.com/transplantjournal/FullText/2017/04000/Machine_Learning_Algorithms_Predict_Graft_Failure.25.aspx)
  * [Zhang, Zhongheng, Kwok M. Ho, and Yucai Hong. "Machine learning for the prediction of volume responsiveness in patients with oliguric acute kidney injury in critical care." Critical Care 23.1 (2019): 112.](https://link.springer.com/article/10.1186/s13054-019-2411-z)
  
-4. Chance of mortality
- * [Chen, Irene Y., Peter Szolovits, and Marzyeh Ghassemi. "Can AI help reduce disparities in general medical and mental health care?." AMA journal of ethics 21.2 (2019): 167-179.](https://journalofethics.ama-assn.org/article/can-ai-help-reduce-disparities-general-medical-and-mental-health-care/2019-02?source=post_page---------------------------)
- * [Einav, Liran, et al. "Predictive modeling of US health care spending in late life." Science 360.6396 (2018): 1462-1465.](https://science.sciencemag.org/content/360/6396/1462.abstract)
- * [Rajkomar, Alvin, et al. "Scalable and accurate deep learning with electronic health records." NPJ Digital Medicine 1.1 (2018): 18.](https://www.nature.com/articles/s41746-018-0029-1/)
- * [Forte, José Castela, et al. "Predicting long-term mortality with first week post-operative data after Coronary Artery Bypass Grafting using Machine Learning models." Machine Learning for Healthcare Conference. 2017.](http://proceedings.mlr.press/v68/forte17a.html)
- 
-5. Treatment adherence
- * [Franklin, Jessica M., et al. "Observing versus predicting: initial patterns of filling predict long‐term adherence more accurately than high‐dimensional modeling techniques." Health services research 51.1 (2016): 220-239.](https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.12310)
- * [Karanasiou, Georgia Spiridon, et al. "Predicting adherence of patients with HF through machine learning techniques." Healthcare technology letters 3.3 (2016): 165-170.](https://ieeexplore.ieee.org/abstract/document/7889104/)
- 
-6. Hospital Readmission
- * [Galiatsatos, Panagis, et al. "The Association Between Neighborhood Socioeconomic Disadvantage and Readmissions for Patients Hospitalized With Sepsis." Critical Care Medicine 48.6 (2020): 808-814. ](https://dl.acm.org/doi/abs/10.1145/3287560.3287593)
- * [Penman-Aguilar, Ana, et al. "Measurement of health disparities, health inequities, and social determinants of health to support the advancement of health equity." Journal of public health management and practice: JPHMP 22.Suppl 1 (2016): S33. ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5845853/)
- * [Chen, Irene Y., Peter Szolovits, and Marzyeh Ghassemi. "Can AI help reduce disparities in general medical and mental health care?." AMA journal of ethics 21.2 (2019): 167-179. ](https://journalofethics.ama-assn.org/article/can-ai-help-reduce-disparities-general-medical-and-mental-health-care/2019-02)
-

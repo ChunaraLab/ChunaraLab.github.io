@@ -1,3 +1,10 @@
+---
+layout: default
+title: Identification
+parent: Taxonomy
+nav_order: 1
+---
+
 ## Identification
 1. Disease incidence at population level
   * [Bhatt, Samir, et al. "The global distribution and burden of dengue." Nature 496.7446 (2013): 504-507.](https://www.nature.com/articles/nature12060?page=32)

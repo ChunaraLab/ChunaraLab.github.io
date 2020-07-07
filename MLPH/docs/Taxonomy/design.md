@@ -1,3 +1,9 @@
+---
+layout: default
+title: Design
+parent: Taxonomy
+nav_order: 2
+---
 ## Designing
 
 1. Individual-level interventions
