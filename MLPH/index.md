@@ -4,6 +4,7 @@ title: Home
 description: 
 nav_order: 1
 ---
+This repository contains information about the tutorial [Machine Learning in Population and Public Health: challenges and opportunites](https://www.chilconference.org/workshop_b.html) at [ACM Conference on Health, Information and Learning, 2020](https://www.chilconference.org/index.html). 
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -13,7 +14,7 @@ nav_order: 1
 
 
 ## Overview
-This repository contains information about the tutorial [Machine Learning in Population and Public Health: challenges and opportunites](https://www.chilconference.org/workshop_b.html) at [ACM Conference on Health, Information and Learning, 2020](https://www.chilconference.org/index.html). 
+
 ![tutorial_overview](./Figures/chil_tutorial_overview123.png) 
 
 
@@ -24,10 +25,7 @@ This repository contains information about the tutorial [Machine Learning in Pop
 Public health and healthcare tasks.
 
 ### Identification
-<details>
-<summary>"Click to expand"</summary>
 
-  
 1. Disease incidence at population level
   * [Bhatt, Samir, et al. "The global distribution and burden of dengue." Nature 496.7446 (2013): 504-507.](https://www.nature.com/articles/nature12060?page=32)
 2. Disease detection including behaviors and markers
@@ -65,7 +63,6 @@ Public health and healthcare tasks.
  
  [Return to top](#table-of-contents)
  
- </details>
 
 ### Designing
 
