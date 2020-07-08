@@ -2,9 +2,5 @@
 ---
 
 @import"{{ site.theme }}";
-.page-header{
-color:#ffff;
-background-color:#C478F3;
-background-image:linear-gradient(120deg,#5A0585,#5A0585);
-font-family: Helvetica, Arial, "Open Sans", sans-serif;
-}
+
+$header-bg-color: #f39c12;
