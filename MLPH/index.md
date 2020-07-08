@@ -24,9 +24,8 @@ This repository contains information about the tutorial [Machine Learning in Pop
 Public health and healthcare tasks.
 
 ### Identification
-<details>
-  <summary>Click to expand!</summary>
 
+  
 1. Disease incidence at population level
   * [Bhatt, Samir, et al. "The global distribution and burden of dengue." Nature 496.7446 (2013): 504-507.](https://www.nature.com/articles/nature12060?page=32)
 2. Disease detection including behaviors and markers
@@ -64,7 +63,6 @@ Public health and healthcare tasks.
  
  [Return to top](#table-of-contents)
  
- </details>
 
 ### Designing
 
