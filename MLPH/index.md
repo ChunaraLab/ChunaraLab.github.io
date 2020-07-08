@@ -28,7 +28,7 @@ Public health and healthcare tasks.
 
 
 <details>
-<summary><i>Disease incidence at population level</i></summary>
+<summary>Disease incidence at population level</summary>
 <ul> 
 <li> 
 <a href="https://www.nature.com/articles/nature12060?page=32">
