@@ -192,17 +192,17 @@ Shrestha, Akritee, et al. "Mental health risk adjustment with clinical categorie
  
 
 ### Designing
-
+<details>
 <summary>Individual-level interventions</summary>
 <ul><li> <a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17358">
 Rahmattalabi, Aida, et al. "Influence Maximization for Social Network Based Substance Abuse Prevention." Thirty-Second AAAI Conference on Artificial Intelligence. 2018.
 </a></li></ul></details>
-
+<details>
 <summary>Community/group-level interventions </summary>
 <ul><li> <a href="https://ieeexplore.ieee.org/abstract/document/6605814">
 Ahsan, GM Tanimul, et al. "Toward an mHealth intervention for smoking cessation." 2013 IEEE 37th Annual Computer Software and Applications Conference Workshops. IEEE, 2013.
 </a></li></ul></details>
-
+<details>
 <summary>Public Policy </summary>
 <ul><li> <a href="https://ajph.aphapublications.org/doi/full/10.2105/AJPH.94.12.2139">
 Braveman, Paula A., et al. "An approach to studying social disparities in health and health care." American Journal of Public Health 94.12 (2004): 2139-2148.
@@ -213,12 +213,14 @@ Braveman, Paula A., et al. "An approach to studying social disparities in health
 
 ### Prediction
 
-
+<details>
 <summary>Risk scores (clincal algorithms) </summary>
 <ul><li> <a href="https://www.nejm.org/doi/full/10.1056/NEJMms2004740">
 Vyas, Darshali A., Leo G. Eisenstein, and David S. Jones. "Hidden in Plain Sight—Reconsidering the Use of Race Correction in Clinical Algorithms." (2020).
 </a></li></ul></details>
 
+
+<details>
 <summary> Disease prognosis  </summary>
 <ul><li> <a href="https://www.liebertpub.com/doi/abs/10.1089/BIG.2015.0020">
 Razavian, Narges, et al. "Population-level prediction of type 2 diabetes from claims data and analysis of risk factors." Big Data 3.4 (2015): 277-287.</a></li>
@@ -239,6 +241,7 @@ Futoma, Joseph, et al. "An improved multi-output gaussian process rnn with real-
 </ul></details>
 
 
+<details>
 <summary>Treatment/procedure effectiveness  </summary>
 <ul><li> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.12068">
 Watkins, Stephanie, et al. "An Empirical Comparison of Tree‐Based Methods for Propensity Score Estimation." Health services research 48.5 (2013): 1798-1817.</a></li>
@@ -285,29 +288,75 @@ Zhang, Zhongheng, Kwok M. Ho, and Yucai Hong. "Machine learning for the predicti
  
 
 
-
 ### Allocation
 
-1. Resources to individuals 
- * [Snyder, Jon J., et al. "Organ distribution without geographic boundaries: a possible framework for organ allocation." American Journal of Transplantation 18.11 (2018): 2635-2640.](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajt.15115)
- * [Davis, Steven Q., and Edward R. Garrity Jr. "Organ allocation in lung transplant." Chest 132.5 (2007): 1646-1651.](https://www.sciencedirect.com/science/article/pii/S001236921551283X)
- * [Asch, William S., and Margaret J. Bia. "New organ allocation system for combined liver-kidney transplants and the availability of kidneys for transplant to patients with stage 4–5 CKD." Clinical Journal of the American Society of Nephrology 12.5 (2017): 848-852.](https://cjasn.asnjournals.org/content/12/5/848.short)
- * [Kube, Amanda, Sanmay Das, and Patrick J. Fowler. "Allocating interventions based on predicted outcomes: A case study on homelessness services." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 33. 2019.](https://www.aaai.org/ojs/index.php/AAAI/article/view/3838)
- 
-2. Resources to populations
- * [Lord, Aaron S., et al. "Discharge educational strategies for reduction of vascular events (DESERVE): design and methods." International journal of stroke 10.SA100 (2015): 151-154.](https://journals.sagepub.com/doi/abs/10.1111/ijs.12571)
- * [Yadav, Amulya, et al. "Bridging the Gap Between Theory and Practice in Influence Maximization: Raising Awareness about HIV among Homeless Youth." IJCAI. 2018.](https://teamcore.seas.harvard.edu/files/teamcore/files/2018_14_teamcore_bridging_gap_theory.pdf)
- * [Rahmattalabi, Aida, et al. "Influence Maximization for Social Network Based Substance Abuse Prevention." Thirty-Second AAAI Conference on Artificial Intelligence. 2018.](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17358)
+<details>
+<summary>Resources to individuals  </summary>
+<ul><li> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ajt.15115">
+Snyder, Jon J., et al. "Organ distribution without geographic boundaries: a possible framework for organ allocation." American Journal of Transplantation 18.11 (2018): 2635-2640.
+</a></li>
 
-3. Resources within hospital 
- * [da Silveira Grübler, Murillo, et al. "A hospital bed allocation hybrid model based on situation awareness." CIN: Computers, Informatics, Nursing 36.5 (2018): 249-255.](https://journals.lww.com/cinjournal/Fulltext/2018/05000/A_Hospital_Bed_Allocation_Hybrid_Model_Based_on.7.aspx)
- * [Scott, P. Anne, et al. "Resource allocation and rationing in nursing care: A discussion paper." Nursing Ethics 26.5 (2019): 1528-1539.](https://journals.sagepub.com/doi/abs/10.1177/0969733018759831)
- * [Feng, Yen-Yi, I-Chin Wu, and Tzu-Li Chen. "Stochastic resource allocation in emergency departments with a multi-objective simulation optimization algorithm." Health Care Management Science 20.1 (2017): 55-75.](https://link.springer.com/content/pdf/10.1007/s10729-015-9335-1.pdf)
+<li> <a href="https://www.sciencedirect.com/science/article/pii/S001236921551283X">
+Davis, Steven Q., and Edward R. Garrity Jr. "Organ allocation in lung transplant." Chest 132.5 (2007): 1646-1651.
+</a></li>
+
+<li> <a href="https://cjasn.asnjournals.org/content/12/5/848.short">
+Asch, William S., and Margaret J. Bia. "New organ allocation system for combined liver-kidney transplants and the availability of kidneys for transplant to patients with stage 4–5 CKD." Clinical Journal of the American Society of Nephrology 12.5 (2017): 848-852.
+</a></li>
+
+<li> <a href="https://www.aaai.org/ojs/index.php/AAAI/article/view/3838">
+Kube, Amanda, Sanmay Das, and Patrick J. Fowler. "Allocating interventions based on predicted outcomes: A case study on homelessness services." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 33. 2019.
+</a></li>
+</ul></details>
  
-4. Care management at individual and population level 
- * [Chacko, Jerel, et al. "Effect of an emergency department opioid prescription policy on prescribing patterns." The American Journal of Emergency Medicine 35.9 (2017): 1327-1329.](https://www.sciencedirect.com/science/article/pii/S0735675717304680)
- * [Osborn, Scott R., et al. "Changes in provider prescribing patterns after implementation of an emergency department prescription opioid policy." The Journal of emergency medicine 52.4 (2017): 538-546.](https://www.sciencedirect.com/science/article/pii/S073646791630988X)
- * [Kucukarslan, S., et al. "Points to consider about prescription drug prices: an overview of federal policy and pricing studies." Clinical therapeutics 15.4 (1993): 726.](https://www.ncbi.nlm.nih.gov/pubmed/8221823)  
+
+<details>
+<summary>Resources to populations  </summary>
+<ul><li> <a href="https://journals.sagepub.com/doi/abs/10.1111/ijs.12571">
+Lord, Aaron S., et al. "Discharge educational strategies for reduction of vascular events (DESERVE): design and methods." International journal of stroke 10.SA100 (2015): 151-154.
+</a></li>
+
+<li> <a href="https://teamcore.seas.harvard.edu/files/teamcore/files/2018_14_teamcore_bridging_gap_theory.pdf">
+Yadav, Amulya, et al. "Bridging the Gap Between Theory and Practice in Influence Maximization: Raising Awareness about HIV among Homeless Youth." IJCAI. 2018.
+</a></li>
+
+<li> <a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17358">
+Rahmattalabi, Aida, et al. "Influence Maximization for Social Network Based Substance Abuse Prevention." Thirty-Second AAAI Conference on Artificial Intelligence. 2018.
+</a></li>
+</ul></details>
+
+
+
+<details>
+<summary>Resources within hospital  </summary>
+<ul><li> <a href="https://journals.lww.com/cinjournal/Fulltext/2018/05000/A_Hospital_Bed_Allocation_Hybrid_Model_Based_on.7.aspx">
+da Silveira Grübler, Murillo, et al. "A hospital bed allocation hybrid model based on situation awareness." CIN: Computers, Informatics, Nursing 36.5 (2018): 249-255.
+</a></li>
+
+<li> <a href="https://journals.sagepub.com/doi/abs/10.1177/0969733018759831">
+Scott, P. Anne, et al. "Resource allocation and rationing in nursing care: A discussion paper." Nursing Ethics 26.5 (2019): 1528-1539.
+</a></li>
+
+<li> <a href="https://link.springer.com/content/pdf/10.1007/s10729-015-9335-1.pdf">
+Feng, Yen-Yi, I-Chin Wu, and Tzu-Li Chen. "Stochastic resource allocation in emergency departments with a multi-objective simulation optimization algorithm." Health Care Management Science 20.1 (2017): 55-75.
+</a></li>
+</ul></details>
+
+
+<details>
+<summary>Care management at individual and population level </summary>
+<ul><li> <a href="https://www.sciencedirect.com/science/article/pii/S073567571730468">
+Chacko, Jerel, et al. "Effect of an emergency department opioid prescription policy on prescribing patterns." The American Journal of Emergency Medicine 35.9 (2017): 1327-1329.
+</a></li>
+
+<li> <a href="https://www.sciencedirect.com/science/article/pii/S073646791630988X1">
+Osborn, Scott R., et al. "Changes in provider prescribing patterns after implementation of an emergency department prescription opioid policy." The Journal of emergency medicine 52.4 (2017): 538-546.
+</a></li>
+
+<li> <a href="https://www.ncbi.nlm.nih.gov/pubmed/8221823">
+[Kucukarslan, S., et al. "Points to consider about prescription drug prices: an overview of federal policy and pricing studies." Clinical therapeutics 15.4 (1993): 726.]
+</a></li>
+</ul></details>
  
  [Return to top](#table-of-contents)
 
