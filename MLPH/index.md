@@ -24,6 +24,8 @@ This repository contains information about the tutorial [Machine Learning in Pop
 Public health and healthcare tasks.
 
 ### Identification
+<details>
+<summary>"Click to expand"</summary>
 
   
 1. Disease incidence at population level
@@ -63,6 +65,7 @@ Public health and healthcare tasks.
  
  [Return to top](#table-of-contents)
  
+ </details>
 
 ### Designing
 
