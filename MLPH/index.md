@@ -197,11 +197,14 @@ Shrestha, Akritee, et al. "Mental health risk adjustment with clinical categorie
 <ul><li> <a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17358">
 Rahmattalabi, Aida, et al. "Influence Maximization for Social Network Based Substance Abuse Prevention." Thirty-Second AAAI Conference on Artificial Intelligence. 2018.
 </a></li></ul></details>
+
+
 <details>
 <summary>Community/group-level interventions </summary>
 <ul><li> <a href="https://ieeexplore.ieee.org/abstract/document/6605814">
 Ahsan, GM Tanimul, et al. "Toward an mHealth intervention for smoking cessation." 2013 IEEE 37th Annual Computer Software and Applications Conference Workshops. IEEE, 2013.
 </a></li></ul></details>
+
 <details>
 <summary>Public Policy </summary>
 <ul><li> <a href="https://ajph.aphapublications.org/doi/full/10.2105/AJPH.94.12.2139">
@@ -284,6 +287,50 @@ Lau, Lawrence, et al. "Machine-learning algorithms predict graft failure after l
 Zhang, Zhongheng, Kwok M. Ho, and Yucai Hong. "Machine learning for the prediction of volume responsiveness in patients with oliguric acute kidney injury in critical care." Critical Care 23.1 (2019): 112.</a></li>
 </ul></details>
 
+
+<details>
+<summary>Chances of mortality </summary>
+<ul><li> <a href="https://journalofethics.ama-assn.org/article/can-ai-help-reduce-disparities-general-medical-and-mental-health-care/2019-02">
+Chen, Irene Y., Peter Szolovits, and Marzyeh Ghassemi. "Can AI help reduce disparities in general medical and mental health care?." AMA journal of ethics 21.2 (2019): 167-179. 
+</a></li>
+
+<li> <a href="https://journalofethics.ama-assn.org/article/can-ai-help-reduce-disparities-general-medical-and-mental-health-care/2019-02">
+Einav, Liran, et al. "Predictive modeling of US health care spending in late life." Science 360.6396 (2018): 1462-1465.
+</a></li>
+
+<li> <a href="https://www.nature.com/articles/s41746-018-0029-1/">
+Rajkomar, Alvin, et al. "Scalable and accurate deep learning with electronic health records." NPJ Digital Medicine 1.1 (2018): 18.
+</a></li>
+
+
+<li> <a href="http://proceedings.mlr.press/v68/forte17a.html">
+Forte, José Castela, et al. "Predicting long-term mortality with first week post-operative data after Coronary Artery Bypass Grafting using Machine Learning models." Machine Learning for Healthcare Conference. 2017.
+</a></li>
+</ul></details>
+
+
+<details>
+<summary>Treatment adherence </summary>
+<ul><li> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.12310">
+Franklin, Jessica M., et al. "Observing versus predicting: initial patterns of filling predict long‐term adherence more accurately than high‐dimensional modeling techniques." Health services research 51.1 (2016): 220-239.
+</a></li>
+
+<li> <a href="https://ieeexplore.ieee.org/abstract/document/7889104/">
+Karanasiou, Georgia Spiridon, et al. "Predicting adherence of patients with HF through machine learning techniques." Healthcare technology letters 3.3 (2016): 165-170.
+</a></li>
+</ul></details>
+
+
+<details>
+<summary>Readmission to hospital </summary>
+<ul><li> <a href="https://dl.acm.org/doi/abs/10.1145/3287560.3287593">
+Galiatsatos, Panagis, et al. "The Association Between Neighborhood Socioeconomic Disadvantage and Readmissions for Patients Hospitalized With Sepsis." Critical Care Medicine 48.6 (2020): 808-814. 
+</a></li>
+
+<li> <a href="https://journalofethics.ama-assn.org/article/can-ai-help-reduce-disparities-general-medical-and-mental-health-care/2019-02">
+Chen, Irene Y., Peter Szolovits, and Marzyeh Ghassemi. "Can AI help reduce disparities in general medical and mental health care?." AMA journal of ethics 21.2 (2019): 167-179. 
+</a></li>
+</ul></details>
 [Return to top](#table-of-contents)
  
 
