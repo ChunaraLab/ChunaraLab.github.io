@@ -30,19 +30,33 @@ Public health and healthcare tasks.
 <details>
 <summary>Disease incidence at population level</summary>
 <ul> 
-<li> 
-<a href="https://www.nature.com/articles/nature12060?page=32">
+<li> <a href="https://www.nature.com/articles/nature12060?page=32">
 Bhatt, Samir, et al. "The global distribution and burden of dengue." Nature 496.7446 (2013): 504-507. 
 </a>  
 </li>
 </ul>
-  <!-- * [Bhatt, Samir, et al. "The global distribution and burden of dengue." Nature 496.7446 (2013): 504-507.](https://www.nature.com/articles/nature12060?page=32) -->
   </details>
-2. Disease detection including behaviors and markers
-  * [Gulshan, Varun, et al. "Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs." Jama 316.22 (2016): 2402-2410.](https://jamanetwork.com/journals/jama/article-abstract/2588763)
-  * [Lu, Jen-Tang, et al. "Deepspine: Automated lumbar vertebral segmentation, disc-level designation, and spinal stenosis grading using deep learning." arXiv preprint arXiv:1807.10215 (2018).](https://arxiv.org/abs/1807.10215)
-  * [Paul, H. Yi, et al. "Deep Learning-Based Identification Of Traditional Hip, Knee, and Shoulder Arthroplasty and Application to Alternative Arthroplasty Designs." (2018).](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/5b737c761ae6cf102e2857d6/1534295158812/Arthroplasty+Identification+MLHC+2018+FINAL.pdf)
-  * [M. Hu et al., "Learning to Recognize Chest-Xray Images Faster and More Efficiently Based on Multi-Kernel Depthwise Convolution," in IEEE Access, vol. 8, pp. 37265-37274, 2020, doi: 10.1109/ACCESS.2020.2974242.](https://ieeexplore.ieee.org/abstract/document/9000602)
+
+<details>
+<summary>Disease detection including behaviors and markers</summary>
+<ul>
+<li> <a href="https://jamanetwork.com/journals/jama/article-abstract/2588763">
+Gulshan, Varun, et al. "Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs." Jama 316.22 (2016): 2402-2410.
+</a>
+</li>
+
+<li> <a href="https://arxiv.org/abs/1807.10215">
+Lu, Jen-Tang, et al. "Deepspine: Automated lumbar vertebral segmentation, disc-level designation, and spinal stenosis grading using deep learning." arXiv preprint arXiv:1807.10215 (2018). </a> </li> 
+
+<li> <a href="https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/5b737c761ae6cf102e2857d6/1534295158812/Arthroplasty+Identification+MLHC+2018+FINAL.pdf">
+Paul, H. Yi, et al. "Deep Learning-Based Identification Of Traditional Hip, Knee, and Shoulder Arthroplasty and Application to Alternative Arthroplasty Designs." (2018). </a> </li> 
+
+<li> <a href="https://ieeexplore.ieee.org/abstract/document/9000602">
+M. Hu et al., "Learning to Recognize Chest-Xray Images Faster and More Efficiently Based on Multi-Kernel Depthwise Convolution," in IEEE Access, vol. 8, pp. 37265-37274, 2020, doi: 10.1109/ACCESS.2020.2974242. </a> </li> 
+</ul>
+</details>
+
+
 3. Multi-level factors related to health outcomes
  * [Weichenthal, Scott, et al. "Within-city Spatial Variations in Ambient Ultrafine Particle Concentrations and Incident Brain Tumors in Adults." Epidemiology (Cambridge, Mass.) 31.2 (2020): 177.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7004474/)
 4. External validity of policies
