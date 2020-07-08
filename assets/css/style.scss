@@ -1,10 +1,11 @@
 ---
 ---
 $section-headings-color: #5A0585 !default;
+$section-font-family: Roboto !default;
 @import"{{ site.theme }}";
 .page-header{
 color:#ffff;
 background-color:#C478F3;
 background-image:linear-gradient(120deg,#5A0585,#5A0585);
-font-family: Verdana, Helvetica, Arial, "Open Sans", sans-serif;
+font-family: Roboto, Helvetica, Arial, "Open Sans", sans-serif;
 }
