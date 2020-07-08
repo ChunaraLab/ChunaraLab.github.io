@@ -26,8 +26,15 @@ Public health and healthcare tasks.
 
 ### [Identification](docs/Taxonomy/identification.md)
 
-1. Disease incidence at population level
-  * [Bhatt, Samir, et al. "The global distribution and burden of dengue." Nature 496.7446 (2013): 504-507.](https://www.nature.com/articles/nature12060?page=32)
+
+<details>
+<summary><i>1. Disease incidence at population level</i></summary>
+<a href="https://www.nature.com/articles/nature12060?page=32">
+Bhatt, Samir, et al. "The global distribution and burden of dengue." Nature 496.7446 (2013): 504-507.
+</a>  
+
+  <!-- * [Bhatt, Samir, et al. "The global distribution and burden of dengue." Nature 496.7446 (2013): 504-507.](https://www.nature.com/articles/nature12060?page=32) -->
+  </details>
 2. Disease detection including behaviors and markers
   * [Gulshan, Varun, et al. "Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs." Jama 316.22 (2016): 2402-2410.](https://jamanetwork.com/journals/jama/article-abstract/2588763)
   * [Lu, Jen-Tang, et al. "Deepspine: Automated lumbar vertebral segmentation, disc-level designation, and spinal stenosis grading using deep learning." arXiv preprint arXiv:1807.10215 (2018).](https://arxiv.org/abs/1807.10215)
