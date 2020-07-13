@@ -4,6 +4,12 @@ title: Home
 description: 
 nav_order: 1
 ---
+<style>
+table, th, td {
+  border: 0px solid black;
+}
+</style>
+
 This repository contains information about the tutorial [Machine Learning in Population and Public Health: challenges and opportunites](https://www.chilconference.org/workshop_b.html) at [ACM Conference on Health, Information and Learning, 2020](https://www.chilconference.org/index.html). 
 
 ## Table of contents
