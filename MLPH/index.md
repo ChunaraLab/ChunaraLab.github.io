@@ -425,5 +425,10 @@ Osborn, Scott R., et al. "Changes in provider prescribing patterns after impleme
 <td width="(100/3)%">Vishwali Mhasawade is a Ph.D. student at New York University. She is interested in working at the intersection of causal inference and algorithmic fairness with the goal of mitigating health disparities. Her previous work focused on causal transport, to improve understanding of population-level information while incorporating data from multiple environments.</td>
 <td width="(100/3)%">Yuan Zhao is a doctoral student at NYU School of Global Public Health. She is interested in application of machine learning in disease prediction and causal inference. Her previous research included modeling transmission and prevention of STI and HIV/AIDS among marginalized populations and evaluating novel drugs treating multidrug resistant tuberculosis using targeted maximum likelihood estimation (TMLE).</td>
 </tr>
+<tr>
+<td width="(100/3)"><img src="Figures/chunara_headshot_website.png"></td>
+<td width="(100/3)"><img src="Figures/vishwali_profile_website.png"></td>
+<td width="(100/3)"><img src="Figures/yuan_headshot_website.png"></td>
+</tr>
 </table> 
 
