@@ -408,6 +408,7 @@ Osborn, Scott R., et al. "Changes in provider prescribing patterns after impleme
  [Return to top](#table-of-contents)
 
 ### About Us
+
 | Rumi Chunara  | Vishwali Mhasawade | Yuan Zhao |
 | ------------- | ------------- |---------------|
 | Rumi Chunara is an Assistant Professor at NYU, | Vishwali Mhasawade is a Ph.D. student at New York University. | Yuan Zhao is a doctoral student at NYU School of Global Public Health.|
