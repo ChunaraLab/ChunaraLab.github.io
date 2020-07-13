@@ -18,11 +18,11 @@ This repository contains information about the tutorial [Machine Learning in Pop
 ![tutorial_overview](./Figures/chil_tutorial_overview123.png) 
 
 
-
 ## Taxonomy
 {: .d-block }
 
-Public health and healthcare tasks.
+A taxonomy of Machine Learning in <i>health</i> tasks and example studies.
+
 
 ### Identification
 
@@ -406,4 +406,24 @@ Osborn, Scott R., et al. "Changes in provider prescribing patterns after impleme
 </ul></details>
  
  [Return to top](#table-of-contents)
+
+### About Us
+| Rumi Chunara  | Vishwali Mhasawade | Yuan Zhao |
+| ------------- | ------------- |---------------|
+| Rumi Chunara is an Assistant Professor at NYU, | Vishwali Mhasawade is a Ph.D. student at New York University. | Yuan Zhao is a doctoral student at NYU School of Global Public Health.|
+| jointly appointed at the Tandon School of Engineering | | |
+| (in Computer Science) and the School of Global Public Health | | |
+| (in Biostatistics/Epidemiology). My research group focuses | | |
+| on developing computational and statistical approaches for | | |
+| acquiring, integrating and using data to improve population-level|  | |
+| public health, with data from clinical and outside-clinic sources.| | |
+| I have been leading efforts in machine learning and | | |
+| artificial intelligence in public health, especially linking the| | | 
+| data collection process and algorithmic development. Specifically,| | | 
+| my group has published on issues of generating relevant features from| | | 
+| data, distribution shift, implications of data imperfections in AI | | |
+| algorithms and deployment of AI in local and global public health | | |
+| settings. My work has been funded by diverse sources including the | | |
+| Gates Foundation, NSF, NIH, Facebook, and the International Growth Centre.  |  | |
+
 
