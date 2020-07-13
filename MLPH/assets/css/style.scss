@@ -8,6 +8,8 @@ background-color:#C478F3;
 background-image:linear-gradient(120deg,#5A0585,#C478F3);
 }
 
-table, th, td, tr {
-  border: none;
-}
+// table, th, td, tr {
+//   border: none;
+// }
+.noborder { border: none; }
+#content table { border: 1px solid #000000; }
