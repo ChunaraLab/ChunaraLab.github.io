@@ -412,7 +412,7 @@ Osborn, Scott R., et al. "Changes in provider prescribing patterns after impleme
 
 
 
-<table style="width: 100%">
+<table>
 <tbody>
 <tr>
     <th ><a href="https://rumichunara.github.io/">Rumi Chunara</a></th>
