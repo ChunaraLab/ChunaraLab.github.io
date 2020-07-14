@@ -14,9 +14,6 @@ This repository contains information about the tutorial [Machine Learning in Pop
 {:toc}
 
 
-<<<<<<< HEAD
-## Overview
-=======
 ## Audience
 The primary audience for this tutorial is computer science and statistics researchers, who are interested in how machine learning may provide opportunities to address challenges in health research. In particular, those who may already be working in machine learning in <i>healthcare</i> may find discussions in this tutorial helpful regarding machine learning with respect to health prevention, protection and care. Public health professionals and researchers who have the prerequisite background of an introductory understanding of machine learning and causal inference may also be interested in this tutorial.     
 
@@ -28,7 +25,6 @@ The goals of this tutorial are to:
 3) Activate the machine learning community on challenges in public/population health
 
 The tutorial is composed of three parts.
->>>>>>> parent of 46a2e5d... overview
 
 ![tutorial_overview](./Figures/chil_tutorial_overview123.png) 
 [Slides](./docs/slides.pdf) are available.
