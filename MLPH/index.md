@@ -24,7 +24,7 @@ The goals of this tutorial are to:<br>
 2) Identify open areas relevant to machine learning and health equity<br>
 3) Activate the machine learning community on challenges in public/population health<br>
 
-The tutorial is composed of three parts. Click each icon to access the slides.
+The tutorial is composed of three parts. <b>Click each icon to access the slides</b>.
 
 <table>
 <tbody>
