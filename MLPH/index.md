@@ -43,6 +43,8 @@ In order to demonstrate the use of machine learning across aspects of health, co
 
 <details>
 <summary>Identification</summary>
+<ul>
+<li>
 <details>
 <summary>Disease incidence at population level</summary>
 <ul> 
@@ -51,8 +53,10 @@ Bhatt, Samir, et al. "The global distribution and burden of dengue." Nature 496.
 </a>  
 </li>
 </ul>
-  </details>
+</details>
+</li>
 
+<li>
 <details>
 <summary>Disease detection including behaviors and markers</summary>
 <ul>
@@ -71,29 +75,34 @@ Paul, H. Yi, et al. "Deep Learning-Based Identification Of Traditional Hip, Knee
 M. Hu et al., "Learning to Recognize Chest-Xray Images Faster and More Efficiently Based on Multi-Kernel Depthwise Convolution," in IEEE Access, vol. 8, pp. 37265-37274, 2020, doi: 10.1109/ACCESS.2020.2974242. </a> </li> 
 </ul>
 </details>
+</li>
 
-
+<li>
 <details>
 <summary>Multi-level factors related to health outcomes</summary>
 <ul><li> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7004474/">
 Weichenthal, Scott, et al. "Within-city Spatial Variations in Ambient Ultrafine Particle Concentrations and Incident Brain Tumors in Adults." Epidemiology (Cambridge, Mass.) 31.2 (2020): 177.
 </a></li></ul></details>
+</li>
 
+<li>
 <details>
 <summary>External validity of policies</summary>
 <ul><li> <a href="https://www.frontiersin.org/articles/10.3389/fped.2017.00149/full">
 Hermanspann T, Schoberer M, Robel-Tillig E, et al. Incidence and Severity of Prescribing Errors in Parenteral Nutrition for Pediatric Inpatients at a Neonatal and Pediatric Intensive Care Unit. Front Pediatr. 2017;5:149. Published 2017 Jun 30. doi:10.3389/fped.2017.00149 
 </a></li></ul></details>
+</li>
 
-
+<li>
 <details>
 <summary>Fairness of policies</summary>
 <ul><li> <a href="https://dl.acm.org/doi/abs/10.1145/3287560.3287593">
 Obermeyer, Ziad, and Sendhil Mullainathan. "Dissecting racial bias in an algorithm that guides health decisions for 70 million people." Proceedings of the Conference on Fairness, Accountability, and Transparency. 2019.
-</a></li></ul></details>
+</a></li></ul>
+</details>
+</li>
 
-
-
+<li>
 <details>
 <summary>Causal treatment effects </summary>
 <ul><li> <a href="https://academic.oup.com/aje/article/188/8/1569/5486454">
@@ -112,8 +121,9 @@ Burgess, Stephen, Christopher N. Foley, and Verena Zuber. "Inferring causal rela
 </a>
 </li>
 </ul></details>
+</li>
 
-
+<li>
 <details>
 <summary>Individuals/populations to minimize healthcare costs </summary>
 <ul><li> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1448604/pdf/0942139.pdf">
@@ -151,8 +161,9 @@ Ou, Han-Ching, et al. "Who and When to Screen: Multi-Round Active Screening for 
 </a>
 </li>
 </ul></details>
+</li>
 
-
+<li>
 <details>
 <summary>Individuals/subpopulations to target interventions  </summary>
 <ul><li> <a href="https://academic.oup.com/biostatistics/article-abstract/18/4/682/3077114">
@@ -203,7 +214,7 @@ Park, Sungchul, and Anirban Basu. "Alternative evaluation metrics for risk adjus
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.12818">
 Shrestha, Akritee, et al. "Mental health risk adjustment with clinical categories and machine learning." Health services research 53 (2018): 3189-3206.</a>
 </li>
-</ul></details>
+</ul></details></li></ul>
 </details>
  
 <details>
