@@ -18,7 +18,7 @@ This repository contains information about the tutorial [Machine Learning in Pop
 The primary audience for this tutorial is computer science and statistics researchers, who are interested in how machine learning may provide opportunities to address challenges in health research. In particular, those who may already be working in machine learning in <i>healthcare</i> may find discussions in this tutorial helpful regarding machine learning with respect to the spectrum of health across prevention and promotion to health protection, diagnosis, treatment and care as well as the integration and balance between these aspects. Public health professionals and researchers who have the prerequisite background of an introductory understanding of machine learning and causal inference may also be interested in this tutorial.     
 
 
-## Goals and Overview
+## Goals, Overview and Slides
 The goals of this tutorial are to:<br>
 1) Familiarize the audience with research in public and population health<br>
 2) Identify open areas relevant to machine learning and health equity<br>
@@ -33,13 +33,23 @@ The tutorial is composed of three parts. <b>Click each icon to access the slides
 <td><a href="https://chunaralab.github.io/MLPH/docs/CHIL_PublicPop_Health___ML_Tutorial_0705_P2.pdf"><img src="Figures/chil_tutorial_overview2.png" style="width:250px;height:250px;"></a></td>
 <td><a href="https://chunaralab.github.io/MLPH/docs/CHIL_PublicPop_Health___ML_Tutorial_0705_P3.pdf"><img src="Figures/chil_tutorial_overview3.png" style="width:250px;height:250px;"></a></td>
 </tr>
+<tr>
+<td></td>
+<td></td>
+<td>
+<ul>
+<li>Taxonomy of health tasks</li>
+<li>Causal inference in public health</li>
+<li>Challenges with using proxies</li>
+<li>Algorithmic fairness and health disparities</li>
+</td>
 </tbody>
 </table>
 
 ## Taxonomy
 {: .d-block }
 
-In order to demonstrate the use of machine learning across aspects of health, comprehensively, we created a taxonomy of Machine Learning in <i>health</i> tasks (broadly) and list example studies below.
+In order to demonstrate the use of machine learning across aspects of health, comprehensively, we developed a taxonomy of Machine Learning in <i>health</i> tasks (broadly) and list example studies below.
 
 <details>
 <summary>Identification</summary>
