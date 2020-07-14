@@ -408,7 +408,7 @@ Osborn, Scott R., et al. "Changes in provider prescribing patterns after impleme
  
  [Return to top](#table-of-contents)
 
-### About Us
+## About Us
 
 
 
