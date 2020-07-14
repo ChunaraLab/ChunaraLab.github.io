@@ -24,18 +24,17 @@ The goals of this tutorial are to:<br>
 2) Identify open areas relevant to machine learning and health equity<br>
 3) Activate the machine learning community on challenges in public/population health<br>
 
-The tutorial is composed of three parts.
+The tutorial is composed of three parts. Click each icon to access the slides.
 
 <table>
 <tbody>
 <tr>
-<td><a href="https://chunaralab.github.io/MLPH/docs/CHIL_PublicPop_Health___ML_Tutorial_0705_P1.pdf"><img src="Figures/chil_tutorial_overview1.png" style="width:200px;height:200px;"></a></td>
-<td><img src="Figures/chil_tutorial_overview2.png" style="width:200px;height:200px;"></td>
-<td><img src="Figures/chil_tutorial_overview3.png" style="width:200px;height:200px;"></td>
+<td><a href="https://chunaralab.github.io/MLPH/docs/CHIL_PublicPop_Health___ML_Tutorial_0705_P1.pdf"><img src="Figures/chil_tutorial_overview1.png" style="width:250px;height:250px;"></a></td>
+<td><a href="https://chunaralab.github.io/MLPH/docs/CHIL_PublicPop_Health___ML_Tutorial_0705_P2.pdf"><img src="Figures/chil_tutorial_overview2.png" style="width:250px;height:250px;"></a></td>
+<td><a href="https://chunaralab.github.io/MLPH/docs/CHIL_PublicPop_Health___ML_Tutorial_0705_P3.pdf"><img src="Figures/chil_tutorial_overview3.png" style="width:250px;height:250px;"></a></td>
 </tr>
 </tbody>
 </table>
-[Slides](./docs/slides.pdf) are available.
 
 ## Taxonomy
 {: .d-block }
