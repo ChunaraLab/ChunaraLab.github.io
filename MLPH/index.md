@@ -38,7 +38,9 @@ A taxonomy of Machine Learning in <i>health</i> tasks and example studies.
 
 
 <details>
-<summary>Identification</summary>
+<ul>
+<li>
+<summary>Identification</summary> </li>
 <details>
 <summary>Disease incidence at population level</summary>
 <ul> 
@@ -205,8 +207,9 @@ Shrestha, Akritee, et al. "Mental health risk adjustment with clinical categorie
 
 
 <details>
+<li>
 <summary>Designing</summary>
-
+</li>
 <details>
 <summary>Individual-level interventions</summary>
 <ul><li> <a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17358">
@@ -230,7 +233,9 @@ Braveman, Paula A., et al. "An approach to studying social disparities in health
 
 
 <details>
+<li>
 <summary>Prediction</summary>
+</li>
 <details>
 <summary>Risk scores (clincal algorithms) </summary>
 <ul><li> <a href="https://www.nejm.org/doi/full/10.1056/NEJMms2004740">
@@ -351,8 +356,9 @@ Chen, Irene Y., Peter Szolovits, and Marzyeh Ghassemi. "Can AI help reduce dispa
 
 
 <details> 
+<li>
 <summary>Allocation</summary>
-
+</li>
 <details>
 <summary>Resources to individuals  </summary>
 <ul><li> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ajt.15115">
@@ -420,6 +426,7 @@ Osborn, Scott R., et al. "Changes in provider prescribing patterns after impleme
 [Kucukarslan, S., et al. "Points to consider about prescription drug prices: an overview of federal policy and pricing studies." Clinical therapeutics 15.4 (1993): 726.]
 </a></li>
 </ul></details>
+</ul>
 </details> 
  [Return to top](#table-of-contents)
 
