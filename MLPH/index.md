@@ -283,7 +283,7 @@ Vyas, Darshali A., Leo G. Eisenstein, and David S. Jones. "Hidden in Plain Sight
 
 <li>
 <details>
-<summary> Disease prognosis  </summary>
+<summary>Disease prognosis  </summary>
 <ul><li> <a href="https://www.liebertpub.com/doi/abs/10.1089/BIG.2015.0020">
 Razavian, Narges, et al. "Population-level prediction of type 2 diabetes from claims data and analysis of risk factors." Big Data 3.4 (2015): 277-287.</a></li>
 <li> <a href="https://www.aeaweb.org/articles?id=10.1257/aer.p20171084">
