@@ -25,8 +25,8 @@ This repository contains information about the tutorial [Machine Learning in Pop
 A taxonomy of Machine Learning in <i>health</i> tasks and example studies.
 
 
-### Identification
-
+<details>
+<summary>Identification</summary>
 <details>
 <summary>Disease incidence at population level</summary>
 <ul> 
@@ -188,11 +188,10 @@ Park, Sungchul, and Anirban Basu. "Alternative evaluation metrics for risk adjus
 Shrestha, Akritee, et al. "Mental health risk adjustment with clinical categories and machine learning." Health services research 53 (2018): 3189-3206.</a>
 </li>
 </ul></details>
- 
+</details> 
  [Return to top](#table-of-contents)
  
 
-### Designing
 
 <details>
 <summary>Designing</summary>
@@ -337,11 +336,13 @@ Galiatsatos, Panagis, et al. "The Association Between Neighborhood Socioeconomic
 Chen, Irene Y., Peter Szolovits, and Marzyeh Ghassemi. "Can AI help reduce disparities in general medical and mental health care?." AMA journal of ethics 21.2 (2019): 167-179. 
 </a></li>
 </ul></details>
+</details>
 [Return to top](#table-of-contents)
  
 
 
-### Allocation
+<details> 
+<summary>Allocation</summary>
 
 <details>
 <summary>Resources to individuals  </summary>
@@ -410,7 +411,7 @@ Osborn, Scott R., et al. "Changes in provider prescribing patterns after impleme
 [Kucukarslan, S., et al. "Points to consider about prescription drug prices: an overview of federal policy and pricing studies." Clinical therapeutics 15.4 (1993): 726.]
 </a></li>
 </ul></details>
- 
+</details> 
  [Return to top](#table-of-contents)
 
 ## About Us
