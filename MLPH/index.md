@@ -26,14 +26,21 @@ The goals of this tutorial are to:<br>
 
 The tutorial is composed of three parts.
 
-![tutorial_overview](./Figures/chil_tutorial_overview123.png) 
+<table>
+<tbody>
+<tr>
+<td><a href="https://chunaralab.github.io/MLPH/docs/CHIL_PublicPop_Health___ML_Tutorial_0705_P1.pdf"><img src="Figures/chil_tutorial_overview1.png" style="width:200px;height:200px;"></a></td>
+<td><img src="Figures/chil_tutorial_overview2.png" style="width:200px;height:200px;"></td>
+<td><img src="Figures/chil_tutorial_overview3.png" style="width:200px;height:200px;"></td>
+</tr>
+</tbody>
+</table>
 [Slides](./docs/slides.pdf) are available.
 
 ## Taxonomy
 {: .d-block }
 
-A taxonomy of Machine Learning in <i>health</i> tasks and example studies.
-
+In order to demonstrate the use of machine learning across aspects of health, comprehensively, we created a taxonomy of Machine Learning in <i>health</i> tasks and list example studies below.
 
 <details>
 <summary>Identification</summary>
@@ -416,9 +423,6 @@ Osborn, Scott R., et al. "Changes in provider prescribing patterns after impleme
  </details>
 
 ## About Us
-
-
-
 <table>
 <tbody>
 <tr>
