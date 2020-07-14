@@ -19,10 +19,10 @@ The primary audience for this tutorial is computer science and statistics resear
 
 
 ## Goals and Overview
-The goals of this tutorial are to:
-1) Familiarize the audience with research in public and population health
-2) Identify open areas relevant to machine learning and health equity
-3) Activate the machine learning community on challenges in public/population health
+The goals of this tutorial are to:<br>
+1) Familiarize the audience with research in public and population health<br>
+2) Identify open areas relevant to machine learning and health equity<br>
+3) Activate the machine learning community on challenges in public/population health<br>
 
 The tutorial is composed of three parts.
 
