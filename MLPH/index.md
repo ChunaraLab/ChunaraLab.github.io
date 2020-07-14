@@ -219,8 +219,8 @@ Braveman, Paula A., et al. "An approach to studying social disparities in health
  [Return to top](#table-of-contents)
 
 
-### Prediction
-
+<details>
+<summary>Prediction</summary>
 <details>
 <summary>Risk scores (clincal algorithms) </summary>
 <ul><li> <a href="https://www.nejm.org/doi/full/10.1056/NEJMms2004740">
