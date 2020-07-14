@@ -43,6 +43,7 @@ The tutorial is composed of three parts. <b>Click each icon to access the slides
 <li>Challenges with using proxies</li>
 <li>Algorithmic fairness and health disparities</li>
 </td>
+</tr>
 </tbody>
 </table>
 
