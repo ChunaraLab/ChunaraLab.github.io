@@ -193,6 +193,10 @@ Shrestha, Akritee, et al. "Mental health risk adjustment with clinical categorie
  
 
 ### Designing
+
+<details>
+<summary>Designing</summary>
+
 <details>
 <summary>Individual-level interventions</summary>
 <ul><li> <a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17358">
@@ -211,6 +215,7 @@ Ahsan, GM Tanimul, et al. "Toward an mHealth intervention for smoking cessation.
 <ul><li> <a href="https://ajph.aphapublications.org/doi/full/10.2105/AJPH.94.12.2139">
 Braveman, Paula A., et al. "An approach to studying social disparities in health and health care." American Journal of Public Health 94.12 (2004): 2139-2148.
 </a></li></ul></details>
+</details>
  
  [Return to top](#table-of-contents)
 
