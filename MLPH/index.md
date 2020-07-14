@@ -36,9 +36,10 @@ The tutorial is composed of three parts. <b>Click each icon to access the slides
 <tr style="height:50px;">
 <td>
 <ul>
-<li>What are Public and Population health?</td></li>
+<li>What are Public and Population health?</li>
 </li>
 </ul>
+</td>
 <td>
 <ul>
 <li>Theory and framework of social determinants of health (SDoH)</li>
