@@ -420,7 +420,7 @@ Osborn, Scott R., et al. "Changes in provider prescribing patterns after impleme
     <th ><a href="https://vishwali.github.io">Vishwali Mhasawade</a></th> 
     <th ><a href="https://scholar.google.com/citations?user=uDnVOCQAAAAJ&hl=en">Yuan Zhao</a></th>
   </tr>
-<tr style="height:20px;">
+<tr style="height:50px;">
 <td >Rumi Chunara is an Assistant Professor at NYU, jointly appointed at the Tandon School of Engineering (in Computer Science) and the School of Global Public Health (in Biostatistics/Epidemiology). Her research group focuses on developing computational and statistical approaches for acquiring, integrating and using data to improve population-level public health, with data from clinical and outside-clinic sources. She is an MIT TR 35 under 35, NSF Career, Facebook Research Award and Max Planck Sabbatical Award winner.</td>
 <td > Vishwali Mhasawade is a Ph.D. student at New York University. She is interested in working at the intersection of causal inference and algorithmic fairness with the goal of mitigating health disparities. Her previous work focused on causal transport, to improve understanding of population-level information while incorporating data from multiple environments.</td>
 <td >Yuan Zhao is a doctoral student at NYU School of Global Public Health. She is interested in application of machine learning in disease prediction and causal inference. Her previous research included modeling transmission and prevention of STI and HIV/AIDS among marginalized populations and evaluating novel drugs treating multidrug resistant tuberculosis using targeted maximum likelihood estimation (TMLE).</td>
