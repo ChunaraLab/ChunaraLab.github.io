@@ -432,7 +432,7 @@ Osborn, Scott R., et al. "Changes in provider prescribing patterns after impleme
 <tr>
 <td><img src="Figures/chunara_headshot_website.png" style="width:200px;height:200px;"></td>
 <td><img src="Figures/vishwali_profile_website.png" style="width:300px;height:200px;"></td>
-<td><img src="Figures/yuan_headshot_website.png" style="width:300px;height:200px;"></td>
+<td><img src="Figures/yuan_headshot_website.png" style="width:250px;height:200px;"></td>
 </tr>
 </tbody>
 </table> 
