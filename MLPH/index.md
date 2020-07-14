@@ -34,8 +34,12 @@ The tutorial is composed of three parts. <b>Click each icon to access the slides
 <td><a href="https://chunaralab.github.io/MLPH/docs/CHIL_PublicPop_Health___ML_Tutorial_0705_P3.pdf"><img src="Figures/chil_tutorial_overview3.png" style="width:250px;height:250px;"></a></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>What are Public and Population health?</td>
+<td>
+<ul>
+<li>Theory and framework of social determinants of health (SDoH)</li>
+</ul>
+</td>
 <td>
 <ul>
 <li>Taxonomy of health tasks</li>
