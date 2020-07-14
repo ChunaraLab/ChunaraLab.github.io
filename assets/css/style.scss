@@ -15,4 +15,8 @@ font-weight: 100;
 
 // .noborder { border: none; }
 // #content table { border: 1px solid #000000; }
-table {border: none;}
+// table {border: none;}
+table{
+    table-layout: fixed;
+    width: 300px;
+}
