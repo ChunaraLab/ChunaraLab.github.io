@@ -65,7 +65,7 @@ The tutorial is composed of three parts. <b>Click each icon to access the slides
 In order to demonstrate the use of machine learning across aspects of health, comprehensively, we developed a taxonomy of Machine Learning in <i>health</i> tasks (broadly) and list example studies below.
 
 <details>
-<summary>Identification</summary>
+<summary>Identify</summary>
 <ul>
 <li>
 <details>
@@ -241,7 +241,7 @@ Shrestha, Akritee, et al. "Mental health risk adjustment with clinical categorie
 </details>
  
 <details>
-<summary>Designing</summary>
+<summary>Design</summary>
 <ul>
 <li>
 <details>
