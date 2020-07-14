@@ -28,7 +28,7 @@ The tutorial is composed of three parts. <b>Click each icon to access the slides
 
 <table>
 <tbody>
-<tr>
+<tr style="width:250px;">
 <td><a href="https://chunaralab.github.io/MLPH/docs/CHIL_PublicPop_Health___ML_Tutorial_0705_P1.pdf"><img src="Figures/chil_tutorial_overview1.png" style="width:250px;height:250px;"></a></td>
 <td><a href="https://chunaralab.github.io/MLPH/docs/CHIL_PublicPop_Health___ML_Tutorial_0705_P2.pdf"><img src="Figures/chil_tutorial_overview2.png" style="width:250px;height:250px;"></a></td>
 <td><a href="https://chunaralab.github.io/MLPH/docs/CHIL_PublicPop_Health___ML_Tutorial_0705_P3.pdf"><img src="Figures/chil_tutorial_overview3.png" style="width:250px;height:250px;"></a></td>
