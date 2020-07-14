@@ -418,6 +418,7 @@ Osborn, Scott R., et al. "Changes in provider prescribing patterns after impleme
        <col span="1" style="width: 100/3%;">
        <col span="1" style="width: 100/3%;">
     </colgroup>
+<tbody>
 <tr>
     <th ><a href="https://rumichunara.github.io/">Rumi Chunara</a></th>
     <th ><a href="https://vishwali.github.io">Vishwali Mhasawade</a></th> 
@@ -433,5 +434,6 @@ Osborn, Scott R., et al. "Changes in provider prescribing patterns after impleme
 <td><img src="Figures/vishwali_profile_website.png"></td>
 <td><img src="Figures/yuan_headshot_website.png" ></td>
 </tr>
+</tbody>
 </table> 
 
