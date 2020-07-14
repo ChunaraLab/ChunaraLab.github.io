@@ -430,9 +430,9 @@ Osborn, Scott R., et al. "Changes in provider prescribing patterns after impleme
 <td >Yuan Zhao is a doctoral student at NYU School of Global Public Health. She is interested in application of machine learning in disease prediction and causal inference. Her previous research included modeling transmission and prevention of STI and HIV/AIDS among marginalized populations and evaluating novel drugs treating multidrug resistant tuberculosis using targeted maximum likelihood estimation (TMLE).</td>
 </tr>
 <tr>
-<td><img src="Figures/chunara_headshot_website.png" style="width:20px;height:20px;"></td>
-<td><img src="Figures/vishwali_profile_website.png" style="width:20px;height:20px;"></td>
-<td><img src="Figures/yuan_headshot_website.png" style="width:20px;height:20px;"></td>
+<td><img src="Figures/chunara_headshot_website.png" style="width:300px;height:300px;"></td>
+<td><img src="Figures/vishwali_profile_website.png" style="width:300px;height:300px;"></td>
+<td><img src="Figures/yuan_headshot_website.png" style="width:300px;height:300px;"></td>
 </tr>
 </tbody>
 </table> 
