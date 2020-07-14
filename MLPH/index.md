@@ -417,8 +417,8 @@ Osborn, Scott R., et al. "Changes in provider prescribing patterns after impleme
 <table style="table-layout: fixed; width: 100%;" >
 <tr>
     <th width="(100/3)%"><a href="https://rumichunara.github.io/">Rumi Chunara</a></th>
-    <th width="(100/3)%">Vishwali Mhasawade</th> 
-    <th width="(100/3)%">Yuan Zhao</th>
+    <th width="(100/3)%"><a href="https://vishwali.github.io">Vishwali Mhasawade</a></th> 
+    <th width="(100/3)%"><a href="https://scholar.google.com/citations?user=uDnVOCQAAAAJ&hl=en">Yuan Zhao</a></th>
   </tr>
 <tr>
 <td width="(100/3)%">Rumi Chunara is an Assistant Professor at NYU, jointly appointed at the Tandon School of Engineering (in Computer Science) and the School of Global Public Health (in Biostatistics/Epidemiology). Her research group focuses on developing computational and statistical approaches for acquiring, integrating and using data to improve population-level public health, with data from clinical and outside-clinic sources. She is an MIT TR 35 under 35, NSF Career, Facebook Research Award and Max Planck Sabbatical Award winner.</td>
