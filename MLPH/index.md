@@ -219,36 +219,46 @@ Shrestha, Akritee, et al. "Mental health risk adjustment with clinical categorie
  
 <details>
 <summary>Designing</summary>
+<ul>
+<li>
 <details>
 <summary>Individual-level interventions</summary>
 <ul><li> <a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17358">
 Rahmattalabi, Aida, et al. "Influence Maximization for Social Network Based Substance Abuse Prevention." Thirty-Second AAAI Conference on Artificial Intelligence. 2018.
 </a></li></ul></details>
+</li>
 
-
+<li>
 <details>
 <summary>Community/group-level interventions </summary>
 <ul><li> <a href="https://ieeexplore.ieee.org/abstract/document/6605814">
 Ahsan, GM Tanimul, et al. "Toward an mHealth intervention for smoking cessation." 2013 IEEE 37th Annual Computer Software and Applications Conference Workshops. IEEE, 2013.
 </a></li></ul></details>
+</li>
 
+<li>
 <details>
 <summary>Public Policy </summary>
 <ul><li> <a href="https://ajph.aphapublications.org/doi/full/10.2105/AJPH.94.12.2139">
 Braveman, Paula A., et al. "An approach to studying social disparities in health and health care." American Journal of Public Health 94.12 (2004): 2139-2148.
-</a></li></ul></details>
+</a></li></ul></details></li>
+</ul>
  </details>
 
 
 <details>
 <summary>Prediction</summary>
+<ul>
+<li>
 <details>
 <summary>Risk scores (clincal algorithms) </summary>
 <ul><li> <a href="https://www.nejm.org/doi/full/10.1056/NEJMms2004740">
 Vyas, Darshali A., Leo G. Eisenstein, and David S. Jones. "Hidden in Plain Sight—Reconsidering the Use of Race Correction in Clinical Algorithms." (2020).
 </a></li></ul></details>
+</li>
 
 
+<li>
 <details>
 <summary> Disease prognosis  </summary>
 <ul><li> <a href="https://www.liebertpub.com/doi/abs/10.1089/BIG.2015.0020">
@@ -268,8 +278,9 @@ Fiorini, Samuele, et al. "Temporal prediction of multiple sclerosis evolution fr
 <li> <a href="https://arxiv.org/abs/1708.05894">
 Futoma, Joseph, et al. "An improved multi-output gaussian process rnn with real-time validation for early sepsis detection." arXiv preprint arXiv:1708.05894 (2017).</a></li>
 </ul></details>
+</li>
 
-
+<li>
 <details>
 <summary>Treatment/procedure effectiveness  </summary>
 <ul><li> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.12068">
@@ -312,8 +323,10 @@ Lau, Lawrence, et al. "Machine-learning algorithms predict graft failure after l
 <li> <a href="https://link.springer.com/article/10.1186/s13054-019-2411-z">
 Zhang, Zhongheng, Kwok M. Ho, and Yucai Hong. "Machine learning for the prediction of volume responsiveness in patients with oliguric acute kidney injury in critical care." Critical Care 23.1 (2019): 112.</a></li>
 </ul></details>
+</li>
 
 
+<li>
 <details>
 <summary>Chances of mortality </summary>
 <ul><li> <a href="https://journalofethics.ama-assn.org/article/can-ai-help-reduce-disparities-general-medical-and-mental-health-care/2019-02">
@@ -333,8 +346,9 @@ Rajkomar, Alvin, et al. "Scalable and accurate deep learning with electronic hea
 Forte, José Castela, et al. "Predicting long-term mortality with first week post-operative data after Coronary Artery Bypass Grafting using Machine Learning models." Machine Learning for Healthcare Conference. 2017.
 </a></li>
 </ul></details>
+</li>
 
-
+<li>
 <details>
 <summary>Treatment adherence </summary>
 <ul><li> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.12310">
@@ -345,8 +359,9 @@ Franklin, Jessica M., et al. "Observing versus predicting: initial patterns of f
 Karanasiou, Georgia Spiridon, et al. "Predicting adherence of patients with HF through machine learning techniques." Healthcare technology letters 3.3 (2016): 165-170.
 </a></li>
 </ul></details>
+</li>
 
-
+<li>
 <details>
 <summary>Readmission to hospital </summary>
 <ul><li> <a href="https://dl.acm.org/doi/abs/10.1145/3287560.3287593">
@@ -356,13 +371,16 @@ Galiatsatos, Panagis, et al. "The Association Between Neighborhood Socioeconomic
 <li> <a href="https://journalofethics.ama-assn.org/article/can-ai-help-reduce-disparities-general-medical-and-mental-health-care/2019-02">
 Chen, Irene Y., Peter Szolovits, and Marzyeh Ghassemi. "Can AI help reduce disparities in general medical and mental health care?." AMA journal of ethics 21.2 (2019): 167-179. 
 </a></li>
-</ul></details>
+</ul></details></li>
+</ul>
 </details>
  
 
 
 <details>
 <summary>Allocation</summary>
+<ul>
+<li>
 <details>
 <summary>Resources to individuals  </summary>
 <ul><li> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ajt.15115">
@@ -381,8 +399,9 @@ Asch, William S., and Margaret J. Bia. "New organ allocation system for combined
 Kube, Amanda, Sanmay Das, and Patrick J. Fowler. "Allocating interventions based on predicted outcomes: A case study on homelessness services." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 33. 2019.
 </a></li>
 </ul></details>
- 
+ </li>
 
+<li>
 <details>
 <summary>Resources to populations  </summary>
 <ul><li> <a href="https://journals.sagepub.com/doi/abs/10.1111/ijs.12571">
@@ -397,9 +416,10 @@ Yadav, Amulya, et al. "Bridging the Gap Between Theory and Practice in Influence
 Rahmattalabi, Aida, et al. "Influence Maximization for Social Network Based Substance Abuse Prevention." Thirty-Second AAAI Conference on Artificial Intelligence. 2018.
 </a></li>
 </ul></details>
+</li>
 
 
-
+<li>
 <details>
 <summary>Resources within hospital  </summary>
 <ul><li> <a href="https://journals.lww.com/cinjournal/Fulltext/2018/05000/A_Hospital_Bed_Allocation_Hybrid_Model_Based_on.7.aspx">
@@ -414,8 +434,9 @@ Scott, P. Anne, et al. "Resource allocation and rationing in nursing care: A dis
 Feng, Yen-Yi, I-Chin Wu, and Tzu-Li Chen. "Stochastic resource allocation in emergency departments with a multi-objective simulation optimization algorithm." Health Care Management Science 20.1 (2017): 55-75.
 </a></li>
 </ul></details>
+</li>
 
-
+<li>
 <details>
 <summary>Care management at individual and population level </summary>
 <ul><li> <a href="https://www.sciencedirect.com/science/article/pii/S073567571730468">
@@ -429,7 +450,8 @@ Osborn, Scott R., et al. "Changes in provider prescribing patterns after impleme
 <li> <a href="https://www.ncbi.nlm.nih.gov/pubmed/8221823">
 [Kucukarslan, S., et al. "Points to consider about prescription drug prices: an overview of federal policy and pricing studies." Clinical therapeutics 15.4 (1993): 726.]
 </a></li>
-</ul></details>
+</ul></details></li>
+</ul>
  </details>
 
 ## About Us
