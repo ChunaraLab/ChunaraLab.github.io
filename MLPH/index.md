@@ -33,7 +33,7 @@ The tutorial is composed of three parts. <b>Click each icon to access the slides
 <td><a href="https://chunaralab.github.io/MLPH/docs/CHIL_PublicPop_Health___ML_Tutorial_0705_P2.pdf"><img src="Figures/chil_tutorial_overview2.png" style="width:250px;height:250px;"></a></td>
 <td><a href="https://chunaralab.github.io/MLPH/docs/CHIL_PublicPop_Health___ML_Tutorial_0705_P3.pdf"><img src="Figures/chil_tutorial_overview3.png" style="width:250px;height:250px;"></a></td>
 </tr>
-<tr style="height:50px;width:250px;">
+<tr style="height:50px;width:250px;" valign="top">
 <td>
 <ul>
 <li>What are Public and Population health?</li>
