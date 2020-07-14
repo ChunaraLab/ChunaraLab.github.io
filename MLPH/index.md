@@ -14,22 +14,10 @@ This repository contains information about the tutorial [Machine Learning in Pop
 {:toc}
 
 
-## Audience
-The primary audience for this tutorial is computer science and statistics researchers, who are interested in how machine learning may provide opportunities to address challenges in health research. In particular, those who may already be working in machine learning in <i>healthcare</i> may find discussions in this tutorial helpful regarding machine learning with respect to health prevention, protection and care. Public health professionals and researchers who have the prerequisite background of an introductory understanding of machine learning and causal inference may also be interested in this tutorial.     
-
-
-## Goals and Overview
-The goals of this tutorial are to:<br>
-1) Familiarize the audience with research in public and population health<br>
-2) Identify open areas relevant to machine learning and health equity<br>
-3) Activate the machine learning community on challenges in public/population health<br>
-
-The tutorial is composed of three parts.
+## Overview
 
 ![tutorial_overview](./Figures/chil_tutorial_overview123.png) 
-
 [Slides](./docs/slides.pdf) are available.
-
 
 ## Taxonomy
 {: .d-block }
@@ -37,10 +25,8 @@ The tutorial is composed of three parts.
 A taxonomy of Machine Learning in <i>health</i> tasks and example studies.
 
 
-<details>
-<ul>
-<li>
-<summary>Identification</summary> </li>
+### Identification
+
 <details>
 <summary>Disease incidence at population level</summary>
 <ul> 
@@ -202,14 +188,11 @@ Park, Sungchul, and Anirban Basu. "Alternative evaluation metrics for risk adjus
 Shrestha, Akritee, et al. "Mental health risk adjustment with clinical categories and machine learning." Health services research 53 (2018): 3189-3206.</a>
 </li>
 </ul></details>
-</details> 
+ 
+ [Return to top](#table-of-contents)
  
 
-
-<details>
-<li>
-<summary>Designing</summary>
-</li>
+### Designing
 <details>
 <summary>Individual-level interventions</summary>
 <ul><li> <a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17358">
@@ -228,14 +211,12 @@ Ahsan, GM Tanimul, et al. "Toward an mHealth intervention for smoking cessation.
 <ul><li> <a href="https://ajph.aphapublications.org/doi/full/10.2105/AJPH.94.12.2139">
 Braveman, Paula A., et al. "An approach to studying social disparities in health and health care." American Journal of Public Health 94.12 (2004): 2139-2148.
 </a></li></ul></details>
-</details>
  
+ [Return to top](#table-of-contents)
 
 
-<details>
-<li>
-<summary>Prediction</summary>
-</li>
+### Prediction
+
 <details>
 <summary>Risk scores (clincal algorithms) </summary>
 <ul><li> <a href="https://www.nejm.org/doi/full/10.1056/NEJMms2004740">
@@ -351,14 +332,12 @@ Galiatsatos, Panagis, et al. "The Association Between Neighborhood Socioeconomic
 Chen, Irene Y., Peter Szolovits, and Marzyeh Ghassemi. "Can AI help reduce disparities in general medical and mental health care?." AMA journal of ethics 21.2 (2019): 167-179. 
 </a></li>
 </ul></details>
-</details>
+[Return to top](#table-of-contents)
  
 
 
-<details> 
-<li>
-<summary>Allocation</summary>
-</li>
+### Allocation
+
 <details>
 <summary>Resources to individuals  </summary>
 <ul><li> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ajt.15115">
@@ -426,8 +405,7 @@ Osborn, Scott R., et al. "Changes in provider prescribing patterns after impleme
 [Kucukarslan, S., et al. "Points to consider about prescription drug prices: an overview of federal policy and pricing studies." Clinical therapeutics 15.4 (1993): 726.]
 </a></li>
 </ul></details>
-</ul>
-</details> 
+ 
  [Return to top](#table-of-contents)
 
 ## About Us
