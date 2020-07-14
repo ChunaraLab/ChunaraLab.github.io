@@ -189,7 +189,6 @@ Shrestha, Akritee, et al. "Mental health risk adjustment with clinical categorie
 </li>
 </ul></details>
 </details> 
- [Return to top](#table-of-contents)
  
 
 
@@ -216,7 +215,6 @@ Braveman, Paula A., et al. "An approach to studying social disparities in health
 </a></li></ul></details>
 </details>
  
- [Return to top](#table-of-contents)
 
 
 <details>
@@ -337,7 +335,6 @@ Chen, Irene Y., Peter Szolovits, and Marzyeh Ghassemi. "Can AI help reduce dispa
 </a></li>
 </ul></details>
 </details>
-[Return to top](#table-of-contents)
  
 
 
