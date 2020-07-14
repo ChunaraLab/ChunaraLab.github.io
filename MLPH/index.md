@@ -417,7 +417,7 @@ Osborn, Scott R., et al. "Changes in provider prescribing patterns after impleme
 <table style="table-layout: fixed; width: 100%;" >
 <tr>
     <th width="(100/3)%"><a href="https://rumichunara.github.io/">Rumi Chunara</a></th>
-    <th width="(100/3)%"><a href="https://vishwali.github.io">Vishwali M</a></th> 
+    <th width="(100/3)%"><a href="https://vishwali.github.io">Vishwali Mhasawade</a></th> 
     <th width="(100/3)%"><a href="https://scholar.google.com/citations?user=uDnVOCQAAAAJ&hl=en">Yuan Zhao</a></th>
   </tr>
 <tr>
