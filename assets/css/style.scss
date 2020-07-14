@@ -7,7 +7,7 @@ $header-heading-color: #5A0585 !default;
 @import"{{ site.theme }}";
 .table{
     width: 100%;
-    table-layout: fixed;
+    table-layout: auto;
     border: none;
 
 }
