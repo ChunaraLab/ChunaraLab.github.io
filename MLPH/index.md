@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 This repository contains information about the tutorial [Machine Learning in Population and Public Health: challenges and opportunites](https://www.chilconference.org/workshop_b.html) at [ACM Conference on Health, Information and Learning, 2020](https://www.chilconference.org/index.html). An elaborate summary of the tutorial content can be found [here](./docs/ACM_chil_tutorial_summary.pdf).<br/>
-**Vishwali Mhasawade, Yuan Zhao, and Rumi Chunara. 2020. Machine Learn-ing in Population and Public Health. In ACM Conference on Health, Inference,and Learning (ACM CHIL ’20)**
+**Vishwali Mhasawade, Yuan Zhao, and Rumi Chunara. 2020. Machine Learning in Population and Public Health. In ACM Conference on Health, Inference,and Learning (ACM CHIL ’20)**
 
 ## Table of contents
 {: .no_toc .text-delta }
