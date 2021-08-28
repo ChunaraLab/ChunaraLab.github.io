@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Data Science and Machine Learning in Public Health
 description: 
 nav_order: 1
 ---
