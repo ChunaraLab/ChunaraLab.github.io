@@ -41,8 +41,8 @@ In order to demonstrate the use of machine learning across aspects of health, co
 <ul>
 <li>
 <details>
-<summary><a href="https://www.nyu.edu>Slides</a></summary>
-<ul> 
+<li><a href="https://www.nyu.edu>Slides</a></li>
+</ul> 
 <li> <a href="https://www.nature.com/articles/nature12060?page=32">
 Bhatt, Samir, et al. "The global distribution and burden of dengue." Nature 496.7446 (2013): 504-507. 
 </a>  
