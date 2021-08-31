@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data Science and Machine Learning in Public Health
-description: 
+description: Test description 
 nav_order: 1
 ---
 
@@ -23,7 +23,7 @@ This repository contains information about the tutorial [Machine Learning in Pop
 
 
 ## Pre-requisites
-"This course will be a good introduction for anyone interested in learning how data science can be used in public health and biomedicine, and what kinds of skills and problems are involved. Previous exposure and experience in epidemiology, biostatistics research and/or practice will be assumed. Students should also have some experience working with data and a working knowledge of the principles of linear regression and statistics. Course examples will be in R so a working knowledge will also be required, or students should go through an online introduction prior to enrolling."
+This course will be a good introduction for anyone interested in learning how data science can be used in public health and biomedicine, and what kinds of skills and problems are involved. Previous exposure and experience in epidemiology, biostatistics research and/or practice will be assumed. Students should also have some experience working with data and a working knowledge of the principles of linear regression and statistics. Course examples will be in R so a working knowledge will also be required, or students should go through an online introduction prior to enrolling.
 
 ## Goals, Overview and Slides
 The goals of this tutorial are to:<br>
