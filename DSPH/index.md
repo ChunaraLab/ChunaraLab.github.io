@@ -39,8 +39,6 @@ In order to demonstrate the use of machine learning across aspects of health, co
 <details>
 <summary>1. What is data science?</summary>
 <ul>
-<li>
-<details>
 <li><a href="https://www.nyu.edu>Slides</a></li>
 </ul> 
 <li> <a href="https://www.nature.com/articles/nature12060?page=32">
