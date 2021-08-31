@@ -41,7 +41,7 @@ In order to demonstrate the use of machine learning across aspects of health, co
 <ul>
 <li>
 <details>
-<summary>Disease incidence at population level</summary>
+<summary><a href="https://www.nyu.edu>Slides</a></summary>
 <ul> 
 <li> <a href="https://www.nature.com/articles/nature12060?page=32">
 Bhatt, Samir, et al. "The global distribution and burden of dengue." Nature 496.7446 (2013): 504-507. 
@@ -66,24 +66,6 @@ Lu, Jen-Tang, et al. "Deepspine: Automated lumbar vertebral segmentation, disc-l
 
 
 
-<li>
-<details>
-<summary>Individuals/populations to minimize healthcare costs </summary>
-<ul><li> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1448604/pdf/0942139.pdf">
-Rose, Sherri, Savannah L. Bergquist, and Timothy J. Layton. "Computational health economics for identification of unprofitable health care enrollees." Biostatistics 18.4 (2017): 682-694.
-</a></li>
-
-<li> 
-<a href="https://www.healthaffairs.org/doi/abs/10.1377/hlthaff.2016.0012">
-McGuire, Thomas G. "Achieving mental health care parity might require changes in payments and competition." Health Affairs 35.6 (2016): 1029-1035.
-</a>
-</li>
-
-
-<li> 
-<a href="https://europepmc.org/article/med/23513755">
-Williams, J. "A new model for care population management." Healthcare Financial Management: Journal of the Healthcare Financial Management Association 67.3 (2013): 68-76.</a>
-</li>
 
 
 
@@ -103,30 +85,6 @@ Rahmattalabi, Aida, et al. "Influence Maximization for Social Network Based Subs
 <ul>
 <li>
 
-<details>
-<summary>Risk scores (clincal algorithms) </summary>
-<ul><li> <a href="https://www.nejm.org/doi/full/10.1056/NEJMms2004740">
-Vyas, Darshali A., Leo G. Eisenstein, and David S. Jones. "Hidden in Plain Sight—Reconsidering the Use of Race Correction in Clinical Algorithms." (2020).
-</a></li></ul></details>
-</li>
-
-
-
-
-<li>
-<details>
-<summary>Chances of mortality </summary>
-<ul><li> <a href="https://journalofethics.ama-assn.org/article/can-ai-help-reduce-disparities-general-medical-and-mental-health-care/2019-02">
-Chen, Irene Y., Peter Szolovits, and Marzyeh Ghassemi. "Can AI help reduce disparities in general medical and mental health care?." AMA journal of ethics 21.2 (2019): 167-179. 
-</a></li>
-
-<li> <a href="https://journalofethics.ama-assn.org/article/can-ai-help-reduce-disparities-general-medical-and-mental-health-care/2019-02">
-Einav, Liran, et al. "Predictive modeling of US health care spending in late life." Science 360.6396 (2018): 1462-1465.
-</a></li>
-
-<li> <a href="https://www.nature.com/articles/s41746-018-0029-1/">
-Rajkomar, Alvin, et al. "Scalable and accurate deep learning with electronic health records." NPJ Digital Medicine 1.1 (2018): 18.
-</a></li>
 
 
 <li> <a href="http://proceedings.mlr.press/v68/forte17a.html">
@@ -135,75 +93,14 @@ Forte, José Castela, et al. "Predicting long-term mortality with first week pos
 </ul></details>
 </li>
 
-<li>
-<details>
-<summary>Treatment adherence </summary>
-<ul><li> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.12310">
-Franklin, Jessica M., et al. "Observing versus predicting: initial patterns of filling predict long‐term adherence more accurately than high‐dimensional modeling techniques." Health services research 51.1 (2016): 220-239.
-</a></li>
-
-<li> <a href="https://ieeexplore.ieee.org/abstract/document/7889104/">
-Karanasiou, Georgia Spiridon, et al. "Predicting adherence of patients with HF through machine learning techniques." Healthcare technology letters 3.3 (2016): 165-170.
-</a></li>
-</ul></details>
-</li>
-
-<li>
-<details>
-<summary>Readmission to hospital </summary>
-<ul><li> <a href="https://dl.acm.org/doi/abs/10.1145/3287560.3287593">
-Galiatsatos, Panagis, et al. "The Association Between Neighborhood Socioeconomic Disadvantage and Readmissions for Patients Hospitalized With Sepsis." Critical Care Medicine 48.6 (2020): 808-814. 
-</a></li>
-
-<li> <a href="https://journalofethics.ama-assn.org/article/can-ai-help-reduce-disparities-general-medical-and-mental-health-care/2019-02">
-Chen, Irene Y., Peter Szolovits, and Marzyeh Ghassemi. "Can AI help reduce disparities in general medical and mental health care?." AMA journal of ethics 21.2 (2019): 167-179. 
-</a></li>
 </ul></details></li>
 </ul>
 </details>
  
 
 
-<details>
-<summary>Allocation</summary>
-<ul>
-<li>
-<details>
-<summary>Resources to individuals  </summary>
-<ul><li> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ajt.15115">
-Snyder, Jon J., et al. "Organ distribution without geographic boundaries: a possible framework for organ allocation." American Journal of Transplantation 18.11 (2018): 2635-2640.
-</a></li>
 
-<li> <a href="https://www.sciencedirect.com/science/article/pii/S001236921551283X">
-Davis, Steven Q., and Edward R. Garrity Jr. "Organ allocation in lung transplant." Chest 132.5 (2007): 1646-1651.
-</a></li>
 
-<li> <a href="https://cjasn.asnjournals.org/content/12/5/848.short">
-Asch, William S., and Margaret J. Bia. "New organ allocation system for combined liver-kidney transplants and the availability of kidneys for transplant to patients with stage 4–5 CKD." Clinical Journal of the American Society of Nephrology 12.5 (2017): 848-852.
-</a></li>
-
-<li> <a href="https://www.aaai.org/ojs/index.php/AAAI/article/view/3838">
-Kube, Amanda, Sanmay Das, and Patrick J. Fowler. "Allocating interventions based on predicted outcomes: A case study on homelessness services." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 33. 2019.
-</a></li>
-</ul></details>
- </li>
-
-<li>
-<details>
-<summary>Resources to populations  </summary>
-<ul><li> <a href="https://journals.sagepub.com/doi/abs/10.1111/ijs.12571">
-Lord, Aaron S., et al. "Discharge educational strategies for reduction of vascular events (DESERVE): design and methods." International journal of stroke 10.SA100 (2015): 151-154.
-</a></li>
-
-<li> <a href="https://teamcore.seas.harvard.edu/files/teamcore/files/2018_14_teamcore_bridging_gap_theory.pdf">
-Yadav, Amulya, et al. "Bridging the Gap Between Theory and Practice in Influence Maximization: Raising Awareness about HIV among Homeless Youth." IJCAI. 2018.
-</a></li>
-
-<li> <a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17358">
-Rahmattalabi, Aida, et al. "Influence Maximization for Social Network Based Substance Abuse Prevention." Thirty-Second AAAI Conference on Artificial Intelligence. 2018.
-</a></li>
-</ul></details>
-</li>
 
 
 
