@@ -42,9 +42,7 @@ In order to demonstrate the use of machine learning across aspects of health, co
 Slides
 </a>  
 </li>
-</ul>
 </details>
-</li>
 
 <li>
 <details>
