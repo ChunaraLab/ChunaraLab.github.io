@@ -1,12 +1,10 @@
 ---
 layout: default
 title: Data Science and Machine Learning in Public Health
-description: Test description 
+description: A short course to introduce and frame data science and machine learning within the principles and priorities of public health. 
 nav_order: 1
 ---
 
-Course info
-This 5-session (2 hours each session), 1 credit course, delivered over zoom, will introduce and encourage thinking around new datasets and analytic  methods in public health. The data science pipeline, across data gathering, processing, analysis and communication will be covered. Content will include summaries of current and best practices from the literature, discussion of research papers and methods in terms of their appropriateness in public health, and approaches to address methodological challenges. Content will relate to both infectious diseases such as COVID-19 and noncommunicable diseases. Students are encouraged to bring their own dataset or use publicly available ones to develop their own data science project, and time will be allotted for discussing project challenges.
 
 <!--
 This repository contains information about the tutorial [Machine Learning in Population and Public Health: challenges and opportunites](https://www.chilconference.org/tutorial_b.html) at [ACM Conference on Health, Information and Learning, 2020](https://www.chilconference.org/index.html). A full summary of the tutorial is provided in [this document](./docs/ACM_chil_tutorial_summary.pdf). Citation: <br/>
@@ -21,6 +19,8 @@ This repository contains information about the tutorial [Machine Learning in Pop
 1. TOC
 {:toc}
 
+## Course Overview
+This 5-session (2 hours each session), 1 credit course, delivered over zoom, will introduce and encourage thinking around new datasets and analytic  methods in public health. The data science pipeline, across data gathering, processing, analysis and communication will be covered. Content will include summaries of current and best practices from the literature, discussion of research papers and methods in terms of their appropriateness in public health, and approaches to address methodological challenges. Content will relate to both infectious diseases such as COVID-19 and noncommunicable diseases. Students are encouraged to bring their own dataset or use publicly available ones to develop their own data science project, and time will be allotted for discussing project challenges.
 
 ## Pre-requisites
 This course will be a good introduction for anyone interested in learning how data science can be used in public health and biomedicine, and what kinds of skills and problems are involved. Previous exposure and experience in epidemiology, biostatistics research and/or practice will be assumed. Students should also have some experience working with data and a working knowledge of the principles of linear regression and statistics. Course examples will be in R so a working knowledge will also be required, or students should go through an online introduction prior to enrolling.
@@ -42,7 +42,11 @@ In order to demonstrate the use of machine learning across aspects of health, co
 Slides
 </a>  
 </li>
+<summary>2. Data in public health</summary>
+<li> <a href="https://www.nyu.edu">Slides</a></li>
 </details>
+
+
 
 <summary>Disease detection including behaviors and markers</summary>
 <ul>
