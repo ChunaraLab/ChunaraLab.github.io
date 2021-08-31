@@ -37,7 +37,7 @@ The goals of this tutorial are to:<br>
 In order to demonstrate the use of machine learning across aspects of health, comprehensively, we developed a taxonomy of Machine Learning in <i>health</i> tasks (broadly) and list example studies below.
 
 <details>
-<summary>What is data science?</summary>
+<summary>1. What is data science?</summary>
 <ul>
 <li>
 <details>
@@ -86,82 +86,9 @@ Williams, J. "A new model for care population management." Healthcare Financial 
 </li>
 
 
-<li> 
-<a href="https://www.acpjournals.org/doi/abs/10.7326/0003-4819-141-12-200412210-00008">
-Childs, John D., et al. "A clinical prediction rule to identify patients with low back pain most likely to benefit from spinal manipulation: a validation study." Annals of internal medicine 141.12 (2004): 920-928.
-</a>
-</li>
 
 
-<li> 
-<a href="https://arxiv.org/abs/2006.07590">
-Nishtala, Siddharth, et al. "Missed calls, Automated Calls and Health Support: Using AI to improve maternal health outcomes by increasing program engagement." arXiv preprint arXiv:2006.07590 (2020).</a>
-</li>
-
-<li> 
-<a href="http://aruneshsinha.net/Files/Other/Papers/who_and_when_to_screen.pdf">
-Ou, Han-Ching, et al. "Who and When to Screen: Multi-Round Active Screening for Network Recurrent Infectious Diseases Under Uncertainty." Proceedings of the 19th International Conference on Autonomous Agents and MultiAgent Systems. 2020.
-</a>
-</li>
-</ul></details>
-</li>
-
-<li>
-<details>
-<summary>Individuals/subpopulations to target interventions  </summary>
-<ul><li> <a href="https://academic.oup.com/biostatistics/article-abstract/18/4/682/3077114">
-Braveman, Paula A., et al. "An approach to studying social disparities in health and health care." American Journal of Public Health 94.12 (2004): 2139-2148.
-</a></li>
-
-<li> 
-<a href="https://bmjopen.bmj.com/content/7/1/e011580.abstract">
-Tamang, Suzanne, et al. "Predicting patient ‘cost blooms’ in Denmark: a longitudinal population-based study." BMJ open 7.1 (2017): e011580.</a>
-</li>
-
-
-<li> 
-<a href="https://www.sciencedirect.com/science/article/pii/S016762961830290X">
-Bergquist, Savannah L., et al. "Data transformations to improve the performance of health plan payment methods." Journal of health economics 66 (2019): 195-207.</a>
-</li>
-
-
-<li> 
-<a href="https://ajp.psychiatryonline.org/doi/abs/10.1176/ajp.2006.163.4.724">
-Drozd, Edward M., et al. "Patient casemix classification for medicare psychiatric prospective payment." American Journal of Psychiatry 163.4 (2006): 724-732.
-</a>
-</li>
-
-
-<li> 
-<a href="https://academic.oup.com/ije/article-abstract/doi/10.1093/ije/dyaa035/5814327">
-Rose, Sherri. "Intersections of machine learning and epidemiological methods for health services research." International Journal of Epidemiology (2020).</a>
-</li>
-
-<li> 
-<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13206?casa_token=oHkCsdUBcFYAAAAA:7IF1LBK-6dIzdc91k_0UJI7EQVC4zoPZATmrvOgsN_8M-rq0MZwlN0mnkCTu5UdgqdAOsXaN96cILA">
-Zink, Anna, and Sherri Rose. "Fair regression for health care spending." Biometrics (2019).
-</a>
-</li>
-
-<li> 
-<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.12464">
-Rose, Sherri. "A machine learning framework for plan payment risk adjustment." Health services research 51.6 (2016): 2358-2374.</a>
-</li>
-
-<li> 
-<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/hec.3657">
-Park, Sungchul, and Anirban Basu. "Alternative evaluation metrics for risk adjustment methods." Health economics 27.6 (2018): 984-1010.</a>
-</li>
-
-<li> 
-<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.12818">
-Shrestha, Akritee, et al. "Mental health risk adjustment with clinical categories and machine learning." Health services research 53 (2018): 3189-3206.</a>
-</li>
-</ul></details></li></ul>
-</details>
- 
-<details>
-<summary>Design</summary>
+<summary>Data in Public Health and Healthcare</summary>
 <ul>
 <li>
 <details>
@@ -175,6 +102,7 @@ Rahmattalabi, Aida, et al. "Influence Maximization for Social Network Based Subs
 <summary>Prediction</summary>
 <ul>
 <li>
+
 <details>
 <summary>Risk scores (clincal algorithms) </summary>
 <ul><li> <a href="https://www.nejm.org/doi/full/10.1056/NEJMms2004740">
@@ -183,49 +111,6 @@ Vyas, Darshali A., Leo G. Eisenstein, and David S. Jones. "Hidden in Plain Sight
 </li>
 
 
-<li>
-<details>
-<summary>Disease prognosis  </summary>
-<ul><li> <a href="https://www.liebertpub.com/doi/abs/10.1089/BIG.2015.0020">
-Razavian, Narges, et al. "Population-level prediction of type 2 diabetes from claims data and analysis of risk factors." Big Data 3.4 (2015): 277-287.</a></li>
-</ul></details>
-</li>
-
-<li>
-<details>
-<summary>Treatment/procedure effectiveness  </summary>
-<ul><li> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.12068">
-Watkins, Stephanie, et al. "An Empirical Comparison of Tree‐Based Methods for Propensity Score Estimation." Health services research 48.5 (2013): 1798-1817.</a></li>
-
-<li> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/hec.3189">
-Kreif, Noémi, et al. "Evaluation of the effect of a continuous treatment: a machine learning approach with an application to treatment for traumatic brain injury." Health economics 24.9 (2015): 1213-1228.</a></li>
-
-<li> <a href="https://journals.sagepub.com/doi/full/10.1177/0962280214521341">
-Kreif, Noémi, et al. "Evaluating treatment effectiveness under model misspecification: a comparison of targeted maximum likelihood estimation with bias-corrected matching." Statistical methods in medical research 25.5 (2016): 2315-2336.</a></li>
-
-<li> <a href="https://academic.oup.com/aje/article-abstract/186/12/1370/3886032">
-Kreif, Noémi, et al. "Estimating the comparative effectiveness of feeding interventions in the pediatric intensive care unit: a demonstration of longitudinal targeted maximum likelihood estimation." American journal of epidemiology 186.12 (2017): 1370-1379.</a></li>
-
-<li> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.12927">
-Rose, Sherri, and Sharon‐Lise Normand. "Double robust estimation for multiple unordered treatments and clustered observations: Evaluating drug‐eluting coronary artery stents." Biometrics 75.1 (2019): 289-296.</a></li>
-
-<li> <a href="https://arxiv.org/abs/1705.08498">
-Suresh, Harini, et al. "Clinical intervention prediction and understanding using deep networks." arXiv preprint arXiv:1705.08498 (2017).</a></li>
-
-
-<li> <a href="https://bmjopen.bmj.com/content/8/8/e025204.abstract">
-Larney, Sarah, et al. "Using routinely collected data to understand and predict adverse outcomes in opioid agonist treatment: Protocol for the Opioid Agonist Treatment Safety (OATS) Study." BMJ open 8.8 (2018): e025204.</a></li>
-
-<li> <a href="https://academic.oup.com/painmedicine/article-abstract/16/7/1386/1918425">
-Tighe, Patrick J., et al. "Teaching a machine to feel postoperative pain: combining high-dimensional clinical data with machine learning algorithms to forecast acute postoperative pain." Pain Medicine 16.7 (2015): 1386-1401.</a></li>
-
-<li> <a href="https://journals.lww.com/transplantjournal/FullText/2017/04000/Machine_Learning_Algorithms_Predict_Graft_Failure.25.aspx/">
-Lau, Lawrence, et al. "Machine-learning algorithms predict graft failure after liver transplantation." Transplantation 101.4 (2017): e125-e132.</a></li>
-
-<li> <a href="https://link.springer.com/article/10.1186/s13054-019-2411-z">
-Zhang, Zhongheng, Kwok M. Ho, and Yucai Hong. "Machine learning for the prediction of volume responsiveness in patients with oliguric acute kidney injury in critical care." Critical Care 23.1 (2019): 112.</a></li>
-</ul></details>
-</li>
 
 
 <li>
