@@ -42,6 +42,8 @@ In order to demonstrate the use of machine learning across aspects of health, co
 Slides
 </a>  
 </li>
+</details>
+<details>
 <summary>2. Data in public health</summary>
 <li> <a href="https://www.nyu.edu">Slides</a></li>
 </details>
