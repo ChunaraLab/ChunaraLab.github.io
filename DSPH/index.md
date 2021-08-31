@@ -22,9 +22,8 @@ This repository contains information about the tutorial [Machine Learning in Pop
 {:toc}
 
 
-## Audience
-The primary audience for this tutorial is computer science and statistics researchers, who are interested in how machine learning may provide opportunities to address challenges in health research and practice. In particular, those who may already be working in machine learning in <i>healthcare</i> may find discussions in this tutorial helpful regarding machine learning with respect to the spectrum of health across prevention and promotion, to health protection, diagnosis, treatment and care as well as the integration and balance between these aspects. Public health professionals and researchers who have the prerequisite background of an introductory understanding of machine learning and causal inference may also be interested in this tutorial.     
-
+## Pre-requisites
+"This course will be a good introduction for anyone interested in learning how data science can be used in public health and biomedicine, and what kinds of skills and problems are involved. Previous exposure and experience in epidemiology, biostatistics research and/or practice will be assumed. Students should also have some experience working with data and a working knowledge of the principles of linear regression and statistics. Course examples will be in R so a working knowledge will also be required, or students should go through an online introduction prior to enrolling."
 
 ## Goals, Overview and Slides
 The goals of this tutorial are to:<br>
@@ -32,42 +31,7 @@ The goals of this tutorial are to:<br>
 2) Identify open areas relevant to machine learning and health equity<br>
 3) Activate the machine learning community on challenges in public/population health<br>
 
-The tutorial is composed of three parts. <b>Click each icon to access the slides</b>.
-
-<table>
-<tbody>
-<tr>
-<td style="width:290px;"><a href="https://chunaralab.github.io/MLPH/docs/CHIL_PublicPop_Health___ML_Tutorial_0705_P1.pdf"><img src="Figures/chil_tutorial_overview1.png" style="width:250px;height:250px;"></a></td>
-<td style="width:290px;"><a href="https://chunaralab.github.io/MLPH/docs/CHIL_PublicPop_Health___ML_Tutorial_0705_P2.pdf"><img src="Figures/chil_tutorial_overview2.png" style="width:250px;height:250px;"></a></td>
-<td style="width:290px;"><a href="https://chunaralab.github.io/MLPH/docs/CHIL_PublicPop_Health___ML_Tutorial_0705_P3.pdf"><img src="Figures/chil_tutorial_overview3.png" style="width:250px;height:250px;"></a></td>
-</tr>
-<tr style="height:50px;width:250px;" valign="top">
-<td>
-<ul>
-<li>What are Public and Population health?</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>Theory and framework of social determinants of health (SDoH)</li>
-<li>Measurement of SDoH</li> 
-<li>SDoH interventions</li>
-<li>SDoH in machine learning models</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>Taxonomy of health tasks</li>
-<li>Causal inference in public health</li>
-<li>Challenges with using proxies</li>
-<li>Algorithmic fairness and health disparities</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-
-## Taxonomy
+## Modules
 {: .d-block }
 
 In order to demonstrate the use of machine learning across aspects of health, comprehensively, we developed a taxonomy of Machine Learning in <i>health</i> tasks (broadly) and list example studies below.
@@ -259,24 +223,6 @@ Rahmattalabi, Aida, et al. "Influence Maximization for Social Network Based Subs
 </a></li></ul></details>
 </li>
 
-<li>
-<details>
-<summary>Community/group-level interventions </summary>
-<ul><li> <a href="https://ieeexplore.ieee.org/abstract/document/6605814">
-Ahsan, GM Tanimul, et al. "Toward an mHealth intervention for smoking cessation." 2013 IEEE 37th Annual Computer Software and Applications Conference Workshops. IEEE, 2013.
-</a></li></ul></details>
-</li>
-
-<li>
-<details>
-<summary>Public Policy </summary>
-<ul><li> <a href="https://ajph.aphapublications.org/doi/full/10.2105/AJPH.94.12.2139">
-Braveman, Paula A., et al. "An approach to studying social disparities in health and health care." American Journal of Public Health 94.12 (2004): 2139-2148.
-</a></li></ul></details></li>
-</ul>
- </details>
-
-
 <details>
 <summary>Prediction</summary>
 <ul>
@@ -294,20 +240,6 @@ Vyas, Darshali A., Leo G. Eisenstein, and David S. Jones. "Hidden in Plain Sight
 <summary>Disease prognosis  </summary>
 <ul><li> <a href="https://www.liebertpub.com/doi/abs/10.1089/BIG.2015.0020">
 Razavian, Narges, et al. "Population-level prediction of type 2 diabetes from claims data and analysis of risk factors." Big Data 3.4 (2015): 277-287.</a></li>
-<li> <a href="https://www.aeaweb.org/articles?id=10.1257/aer.p20171084">
-Mullainathan, Sendhil, and Ziad Obermeyer. "Does machine learning automate moral hazard and error?." American Economic Review 107.5 (2017): 476-80.</a></li>
-<li> <a href="https://www.thieme-connect.com/products/ejournals/html/10.4338/ACI-2015-03-RA-0036">
-Dugan, Tamara M., et al. "Machine learning techniques for prediction of early childhood obesity." Applied clinical informatics 6.03 (2015): 506-520.</a></li>
-<li> <a href="https://aasldpubs.onlinelibrary.wiley.com/doi/abs/10.1002/hep.27750">
-Tighe, Patrick J., et al. "Teaching a machine to feel postoperative pain: combining high-dimensional clinical data with machine learning algorithms to forecast acute postoperative pain." Pain Medicine 16.7 (2015): 1386-1401.</a></li>
-<li> <a href="https://academic.oup.com/painmedicine/article-abstract/16/7/1386/1918425">
-Konerman, Monica A., et al. "Improvement of predictive models of risk of disease progression in chronic hepatitis C by incorporating longitudinal data." Hepatology 61.6 (2015): 1832-1841.</a></li>
-<li> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6287925/">
-Bergquist, Savannah L., et al. "Classifying lung cancer severity with ensemble machine learning in health care claims data." Proceedings of machine learning research 68 (2017): 25.</a></li>
-<li> <a href="http://proceedings.mlr.press/v68/fiorini17a.html">
-Fiorini, Samuele, et al. "Temporal prediction of multiple sclerosis evolution from patient-centered outcomes." Machine Learning for Healthcare Conference. 2017.</a></li>
-<li> <a href="https://arxiv.org/abs/1708.05894">
-Futoma, Joseph, et al. "An improved multi-output gaussian process rnn with real-time validation for early sepsis detection." arXiv preprint arXiv:1708.05894 (2017).</a></li>
 </ul></details>
 </li>
 
@@ -332,15 +264,6 @@ Rose, Sherri, and Sharon‐Lise Normand. "Double robust estimation for multiple 
 <li> <a href="https://arxiv.org/abs/1705.08498">
 Suresh, Harini, et al. "Clinical intervention prediction and understanding using deep networks." arXiv preprint arXiv:1705.08498 (2017).</a></li>
 
-<li> <a href="https://arxiv.org/abs/1807.06489">
-Mahmood, Rafid, et al. "Automated treatment planning in radiation therapy using generative adversarial networks." arXiv preprint arXiv:1807.06489 (2018).</a></li>
-
-<li> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6110979/">
-Bihorac, Azra, et al. "MySurgeryRisk: development and validation of a machine-learning risk algorithm for major complications and death after surgery." Annals of surgery 269.4 (2019): 652.</a></li>
-
-
-<li> <a href="https://www.nature.com/articles/s41746-018-0029-1//">
-Rajkomar, Alvin, et al. "Scalable and accurate deep learning with electronic health records." NPJ Digital Medicine 1.1 (2018): 18.</a></li>
 
 <li> <a href="https://bmjopen.bmj.com/content/8/8/e025204.abstract">
 Larney, Sarah, et al. "Using routinely collected data to understand and predict adverse outcomes in opioid agonist treatment: Protocol for the Opioid Agonist Treatment Safety (OATS) Study." BMJ open 8.8 (2018): e025204.</a></li>
@@ -486,23 +409,6 @@ Osborn, Scott R., et al. "Changes in provider prescribing patterns after impleme
  </details>
 
 ## About Us
-<table>
-<tbody>
-<tr>
-    <th ><a href="https://rumichunara.github.io/">Rumi Chunara</a></th>
-    <th ><a href="https://vishwali.github.io">Vishwali Mhasawade</a></th> 
-    <th ><a href="https://scholar.google.com/citations?user=uDnVOCQAAAAJ&hl=en">Yuan Zhao</a></th>
-  </tr>
-<tr style="height:50px;">
-<td >Rumi Chunara is an Assistant Professor at NYU, jointly appointed at the Tandon School of Engineering (in Computer Science) and the School of Global Public Health (in Biostatistics/Epidemiology). Her research group focuses on developing computational and statistical approaches for acquiring, integrating and using data to improve population-level public health, with data from clinical and outside-clinic sources. She is an MIT TR 35 under 35, NSF Career, Facebook Research Award and Max Planck Sabbatical Award winner.</td>
-<td > Vishwali Mhasawade is a Ph.D. student at NYU Tandon School of Engineering. She is interested in working at the intersection of causal inference and algorithmic fairness with the goal of mitigating health disparities. Her previous work focused on causal transport, to improve understanding of population-level information while incorporating data from multiple environments.</td>
-<td >Yuan Zhao is a doctoral student at NYU School of Global Public Health. She is interested in application of machine learning in disease prediction and causal inference. Her previous research included modeling transmission and prevention of STI and HIV/AIDS among marginalized populations and evaluating novel drugs treating multidrug resistant tuberculosis using targeted maximum likelihood estimation (TMLE).</td>
-</tr>
-<tr>
-<td><img src="Figures/chunara_headshot_website.png" style="width:200px;height:200px;"></td>
-<td><img src="Figures/vishwali_profile_website.png" style="width:300px;height:200px;"></td>
-<td><img src="Figures/yuan_headshot_website.png" style="width:200px;height:200px;"></td>
-</tr>
 </tbody>
 </table> 
 
