@@ -44,8 +44,6 @@ Slides
 </li>
 </details>
 
-<li>
-<details>
 <summary>Disease detection including behaviors and markers</summary>
 <ul>
 <li> <a href="https://jamanetwork.com/journals/jama/article-abstract/2588763">
