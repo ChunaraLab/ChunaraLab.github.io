@@ -90,18 +90,8 @@ Forte, José Castela, et al. "Predicting long-term mortality with first week pos
 </ul></details>
 </li>
 
-</ul></details></li>
-</ul>
-</details>
  
 
 
-
-
-
-
-
-## About Us
-</tbody>
-</table> 
+## Feedback
 
