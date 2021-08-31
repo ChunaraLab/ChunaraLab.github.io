@@ -37,7 +37,7 @@ The goals of this tutorial are to:<br>
 In order to demonstrate the use of machine learning across aspects of health, comprehensively, we developed a taxonomy of Machine Learning in <i>health</i> tasks (broadly) and list example studies below.
 
 <details>
-<summary>Identify</summary>
+<summary>What is data science?</summary>
 <ul>
 <li>
 <details>
