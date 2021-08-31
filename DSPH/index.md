@@ -63,60 +63,8 @@ Gulshan, Varun, et al. "Development and validation of a deep learning algorithm 
 <li> <a href="https://arxiv.org/abs/1807.10215">
 Lu, Jen-Tang, et al. "Deepspine: Automated lumbar vertebral segmentation, disc-level designation, and spinal stenosis grading using deep learning." arXiv preprint arXiv:1807.10215 (2018). </a> </li> 
 
-<li> <a href="https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/5b737c761ae6cf102e2857d6/1534295158812/Arthroplasty+Identification+MLHC+2018+FINAL.pdf">
-Paul, H. Yi, et al. "Deep Learning-Based Identification Of Traditional Hip, Knee, and Shoulder Arthroplasty and Application to Alternative Arthroplasty Designs." (2018). </a> </li> 
 
-<li> <a href="https://ieeexplore.ieee.org/abstract/document/9000602">
-M. Hu et al., "Learning to Recognize Chest-Xray Images Faster and More Efficiently Based on Multi-Kernel Depthwise Convolution," in IEEE Access, vol. 8, pp. 37265-37274, 2020, doi: 10.1109/ACCESS.2020.2974242. </a> </li> 
-</ul>
-</details>
-</li>
 
-<li>
-<details>
-<summary>Multi-level factors related to health outcomes</summary>
-<ul><li> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7004474/">
-Weichenthal, Scott, et al. "Within-city Spatial Variations in Ambient Ultrafine Particle Concentrations and Incident Brain Tumors in Adults." Epidemiology (Cambridge, Mass.) 31.2 (2020): 177.
-</a></li></ul></details>
-</li>
-
-<li>
-<details>
-<summary>External validity of policies</summary>
-<ul><li> <a href="https://www.frontiersin.org/articles/10.3389/fped.2017.00149/full">
-Hermanspann T, Schoberer M, Robel-Tillig E, et al. Incidence and Severity of Prescribing Errors in Parenteral Nutrition for Pediatric Inpatients at a Neonatal and Pediatric Intensive Care Unit. Front Pediatr. 2017;5:149. Published 2017 Jun 30. doi:10.3389/fped.2017.00149 
-</a></li></ul></details>
-</li>
-
-<li>
-<details>
-<summary>Fairness of policies</summary>
-<ul><li> <a href="https://dl.acm.org/doi/abs/10.1145/3287560.3287593">
-Obermeyer, Ziad, and Sendhil Mullainathan. "Dissecting racial bias in an algorithm that guides health decisions for 70 million people." Proceedings of the Conference on Fairness, Accountability, and Transparency. 2019.
-</a></li></ul>
-</details>
-</li>
-
-<li>
-<details>
-<summary>Causal treatment effects </summary>
-<ul><li> <a href="https://academic.oup.com/aje/article/188/8/1569/5486454">
-Lodi, Sara, et al. "Effect estimates in randomized trials and observational studies: comparing apples with apples." American journal of epidemiology 188.8 (2019): 1569-1577.
-</a></li>
-
-<li> 
-<a href="https://europepmc.org/article/med/32501812">
-Chiu, Yu-Han, et al. "The effect of prenatal treatments on offspring events in the presence of competing events: an application to a randomized trial of fertility therapies." Epidemiology (Cambridge, Mass.) (2020).
-</a>
-</li>
-
-<li> 
-<a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-genom-083117-021731">
-Burgess, Stephen, Christopher N. Foley, and Verena Zuber. "Inferring causal relationships between risk factors and outcomes from genome-wide association study data." Annual review of genomics and human genetics 19 (2018): 303-327.
-</a>
-</li>
-</ul></details>
-</li>
 
 <li>
 <details>
