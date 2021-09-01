@@ -45,11 +45,13 @@ problem(s)"
   <li>What is data science
     <ul>
       <li>Slides</li>
+	<ul>
+	  <li>test</li> 
+	</ul>     
       <li><a href="https://www.nyu.edu">Exercises [R Code]</a></li>
-      <li>Section Three </li>
     </ul>
   </li>
-  <li>Chapter Two</li>
+  <li>Data in public health</li>
   <li>Chapter Three  </li>
 </ol>
 
