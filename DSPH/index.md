@@ -48,13 +48,43 @@ In order to demonstrate the use of machine learning across aspects of health, co
 <details>
 <summary>1. What is data science?</summary>
 <li> <a href="https://www.nature.com/articles/nature12060?page=32">Slides</a></li>
-<li> Papers </li>
+<li> Papers: <li> </li></li>
 <li> Assignment <a href="https://www.nyu.edu">[R Code]</a></li>
 </details>
 <details>
 <summary>2. Data in public health</summary>
 <li> <a href="https://www.nyu.edu">Slides</a></li>
+
+<li> Papers: 
+<li> Chan, Yu-Feng Yvonne, et al. "The Asthma Mobile Health Study, a large-scale clinical observational
+study using ResearchKit." Nature biotechnology 35.4 (2017): 354.</li>
+<li>Feng, Shuo, Karen A. Grépin, and Rumi Chunara. "Tracking health seeking behavior during an Ebola
+outbreak via mobile phones and SMS." NPJ digital medicine 1.1 (2018): 1-8.</li>
+<li>Zhao, Y., Wood, E.P., Mirin, N., Cook, S.H. and Chunara, R., 2021. Social Determinants in Machine Learning Cardiovascular Disease Prediction Models: A Systematic Review. American Journal of Preventive Medicine.</li>
 </details>
+
+<details>3. Machine Learning
+<li> <a href="https://www.nature.com/articles/nature12060?page=32">Slides</a></li>
+<li> Papers: 
+<li> Doupe, Patrick, James Faghmous, and Sanjay Basu. "Machine learning for health services
+researchers." Value in Health 22.7 (2019): 808-815.</li>
+<li> Flaxman, Abraham D., and Theo Vos. "Machine learning in population health: Opportunities and
+threats." PLoS Medicine 15.11 (2018): e1002702. </li>
+<li> Panch, T., Pearson-Stuttard, J., Greaves, F. and Atun, R., 2019. Artificial intelligence: opportunities and risks for public health. The Lancet Digital Health, 1(1), pp.e13-e14.</li> 
+</li>
+<li> Assignment <a href="https://www.nyu.edu">[R Code]</a></li>
+</details>
+4. Visualization and Communication
+5. Health disparities and bias in Data Science, Machine Learning and Artificial Intelligence
+
+Obermeyer, Ziad, et al. "Dissecting racial bias in an algorithm used to manage the health of
+populations." Science 366.6464 (2019): 447-453.
+Mhasawade, V., Zhao, Y. and Chunara, R., 2021. Machine learning and algorithmic fairness in public and population health. Nature Machine Intelligence, pp.1-8.
+
+Doupe, Patrick, James Faghmous, and Sanjay Basu. "Machine learning for health services
+researchers." Value in Health 22.7 (2019): 808-815.
+
+
 
  
 ## Feedback
