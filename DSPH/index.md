@@ -51,23 +51,23 @@ In order to demonstrate the use of machine learning across aspects of health, co
 <li>Slides:
 <li> <a href="www.nyu.edu">1.0 What is data science? </a></li>
 <li> <a href="www.nyu.edu">1.1 Machine learning versus statistical approaches </a></li>
-</ul>
 <li> <a href="https://www.nyu.edu">Activity [R Code]</a></li> 
+</ul>
 <ul>
 <li> Setting up the analysis environment </li>
 <li> Loading data </li>
 <li> Preparing and exploring the data </li>
-</ul>   
-<a href="https://www.nyu.edu">[R Code]</a></li>
 </ul>
 </ol>
 
-<ol> 
-Data in public health
+<ol>
+2. Data in public health
+<li>Slides:
 <ul>
-<li> <a href="https://www.nyu.edu">Slides</a></li>
-<details>
-<summary>Papers:</summary> 
+<li> <a href="www.nyu.edu">2.0 Data in public health </a></li>
+</ul>
+
+Papers:</summary> 
 <li> Chan, Yu-Feng Yvonne, et al. "The Asthma Mobile Health Study, a large-scale clinical observational
 study using ResearchKit." Nature biotechnology 35.4 (2017): 354.</li>
 <li>Feng, Shuo, Karen A. Grépin, and Rumi Chunara. "Tracking health seeking behavior during an Ebola
