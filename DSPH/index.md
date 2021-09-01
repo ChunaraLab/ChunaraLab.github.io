@@ -57,8 +57,19 @@ problem(s)"
         </ul>
     </ul>
   </li>
-  <li>Data in public health</li>
-  <li>Visualization and communication </li>
+  <li>Data in public health
+    <ul>
+     <li>Slides</li>
+     <li>Papers:</li>
+       <ul>
+         <li> Chan, Yu-Feng Yvonne, et al. "The Asthma Mobile Health Study, a large-scale clinical observational
+study using ResearchKit." Nature biotechnology 35.4 (2017): 354.</li>
+         <li>Feng, Shuo, Karen A. Grépin, and Rumi Chunara. "Tracking health seeking behavior during an Ebola
+outbreak via mobile phones and SMS." NPJ digital medicine 1.1 (2018): 1-8.</li>
+         <li>Zhao, Y., Wood, E.P., Mirin, N., Cook, S.H. and Chunara, R., 2021. Social Determinants in Machine Learning Cardiovascular Disease Prediction Models: A Systematic Review. American Journal of Preventive Medicine.</li>
+       </ul>
+   </li>
+   <li>Visualization and communication </li>
    <ul>
     <li><a href="www.nyu.edu">Slides</a></li>
     <li>Papers:</li>
