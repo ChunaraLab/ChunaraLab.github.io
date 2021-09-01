@@ -56,19 +56,19 @@ What is data science?
 
 <ol> 
 Data in public health
-<ul>
 <li> <a href="https://www.nyu.edu">Slides</a></li>
-
-<li> Papers: 
+<details>
+<summary><li> Papers:</summary> 
 <li> Chan, Yu-Feng Yvonne, et al. "The Asthma Mobile Health Study, a large-scale clinical observational
 study using ResearchKit." Nature biotechnology 35.4 (2017): 354.</li>
 <li>Feng, Shuo, Karen A. Grépin, and Rumi Chunara. "Tracking health seeking behavior during an Ebola
 outbreak via mobile phones and SMS." NPJ digital medicine 1.1 (2018): 1-8.</li>
 <li>Zhao, Y., Wood, E.P., Mirin, N., Cook, S.H. and Chunara, R., 2021. Social Determinants in Machine Learning Cardiovascular Disease Prediction Models: A Systematic Review. American Journal of Preventive Medicine.</li>
 </li>
-</ul>
+</details>
+</ol>
 
-<details>3. Machine Learning
+3. Machine Learning
 <li> <a href="https://www.nature.com/articles/nature12060?page=32">Slides</a></li>
 <li> Papers: 
 <li> Doupe, Patrick, James Faghmous, and Sanjay Basu. "Machine learning for health services
