@@ -52,7 +52,13 @@ In order to demonstrate the use of machine learning across aspects of health, co
 <li> <a href="www.nyu.edu">1.0 What is data science? </a></li>
 <li> <a href="www.nyu.edu">1.1 Machine learning versus statistical approaches </a></li>
 </ul>
-<li> Assignment <a href="https://www.nyu.edu">[R Code]</a></li>
+<li> <a href="https://www.nyu.edu">Activity [R Code]</a></li> 
+<ul>
+<li> Setting up the analysis environment </li>
+<li> Loading data </li>
+<li> Preparing and exploring the data </li>
+</ul>   
+<a href="https://www.nyu.edu">[R Code]</a></li>
 </ul>
 </ol>
 
