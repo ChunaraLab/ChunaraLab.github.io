@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data Science and Machine Learning in Public Health
-description: A short course to introduce and frame data science and machine learning within the principles and priorities of public health. 
+description: A short course to introduce and frame data science and machine learning skills within the principles and priorities of public health. 
 nav_order: 1
 ---
 
@@ -48,50 +48,6 @@ Slides
 <li> <a href="https://www.nyu.edu">Slides</a></li>
 </details>
 
-
-
-<summary>Disease detection including behaviors and markers</summary>
-<ul>
-<li> <a href="https://jamanetwork.com/journals/jama/article-abstract/2588763">
-Gulshan, Varun, et al. "Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs." Jama 316.22 (2016): 2402-2410.
-</a>
-</li>
-
-<li> <a href="https://arxiv.org/abs/1807.10215">
-Lu, Jen-Tang, et al. "Deepspine: Automated lumbar vertebral segmentation, disc-level designation, and spinal stenosis grading using deep learning." arXiv preprint arXiv:1807.10215 (2018). </a> </li> 
-
-
-
-
-
-
-
-
-<summary>Data in Public Health and Healthcare</summary>
-<ul>
-<li>
-<details>
-<summary>Individual-level interventions</summary>
-<ul><li> <a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17358">
-Rahmattalabi, Aida, et al. "Influence Maximization for Social Network Based Substance Abuse Prevention." Thirty-Second AAAI Conference on Artificial Intelligence. 2018.
-</a></li></ul></details>
-</li>
-
-<details>
-<summary>Prediction</summary>
-<ul>
-<li>
-
-
-
-<li> <a href="http://proceedings.mlr.press/v68/forte17a.html">
-Forte, José Castela, et al. "Predicting long-term mortality with first week post-operative data after Coronary Artery Bypass Grafting using Machine Learning models." Machine Learning for Healthcare Conference. 2017.
-</a></li>
-</ul></details>
-</li>
-
  
-
-
 ## Feedback
 
