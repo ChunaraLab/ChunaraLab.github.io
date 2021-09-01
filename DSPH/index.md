@@ -54,7 +54,7 @@ In order to demonstrate the use of machine learning across aspects of health, co
 <li> <a href="www.nyu.edu">1.0 What is data science? </a></li>
 <li> <a href="www.nyu.edu">1.1 Machine learning versus statistical approaches </a></li>
 </ul>
-
+</ul>
 2. Data in public health
 
 <li> <a href="https://www.nyu.edu">Activity [R Code]</a></li> 
@@ -63,7 +63,6 @@ In order to demonstrate the use of machine learning across aspects of health, co
 <li> Loading data </li>
 <li> Preparing and exploring the data </li>
 </ul>
--->
 
 
 2. Data in public health
