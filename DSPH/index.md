@@ -41,9 +41,9 @@ problem(s)"
 ## Modules
 {: .d-block }
 
-1. What is data science?
+What is data science?
 
-
+<ul>
 	<li>Slides:
 	<ul>
 		<li> <a href="www.nyu.edu">1.0 What is data science? </a></li>
@@ -57,7 +57,7 @@ problem(s)"
 		<li> Preparing and exploring the data </li>
 	</ul>
 
-
+</ul>
  
 
 ## Feedback
