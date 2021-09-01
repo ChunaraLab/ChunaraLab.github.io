@@ -45,36 +45,37 @@ problem(s)"
 
 In order to demonstrate the use of machine learning across aspects of health, comprehensively, we developed a taxonomy of Machine Learning in <i>health</i> tasks (broadly) and list example studies below.
 
-<ol>
+
 1. What is data science?
 <ul style="PADDING-LEFT: 25px">
 <li>Slides:
+<ul>
 <li> <a href="www.nyu.edu">1.0 What is data science? </a></li>
 <li> <a href="www.nyu.edu">1.1 Machine learning versus statistical approaches </a></li>
-<li> <a href="https://www.nyu.edu">Activity [R Code]</a></li> 
 </ul>
+<li> <a href="https://www.nyu.edu">Activity [R Code]</a></li> 
 <ul>
 <li> Setting up the analysis environment </li>
 <li> Loading data </li>
 <li> Preparing and exploring the data </li>
 </ul>
-</ol>
+</ul>
 
-<ol>
+
 2. Data in public health
 <li>Slides:
 <ul>
 <li> <a href="www.nyu.edu">2.0 Data in public health </a></li>
 </ul>
 
-Papers:</summary> 
+<li>Papers:</li> 
+<ul>
 <li> Chan, Yu-Feng Yvonne, et al. "The Asthma Mobile Health Study, a large-scale clinical observational
 study using ResearchKit." Nature biotechnology 35.4 (2017): 354.</li>
 <li>Feng, Shuo, Karen A. Grépin, and Rumi Chunara. "Tracking health seeking behavior during an Ebola
 outbreak via mobile phones and SMS." NPJ digital medicine 1.1 (2018): 1-8.</li>
 <li>Zhao, Y., Wood, E.P., Mirin, N., Cook, S.H. and Chunara, R., 2021. Social Determinants in Machine Learning Cardiovascular Disease Prediction Models: A Systematic Review. American Journal of Preventive Medicine.</li>
 </li>
-</details>
 </ul>
 </ol>
 
