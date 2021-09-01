@@ -45,16 +45,14 @@ problem(s)"
 
 In order to demonstrate the use of machine learning across aspects of health, comprehensively, we developed a taxonomy of Machine Learning in <i>health</i> tasks (broadly) and list example studies below.
 
+<ol>
 1. What is data science?
-<ul>
-{
-  padding-left: 10px;
-}
-
+<ul style="PADDING-LEFT: 12px">
 <li> <a href="https://www.nature.com/articles/nature12060?page=32">Slides</a></li>
 <li> Papers: <li> </li></li>
 <li> Assignment <a href="https://www.nyu.edu">[R Code]</a></li>
-</details>
+</ul>
+</ol>
 <details>
 <summary>2. Data in public health</summary>
 <li> <a href="https://www.nyu.edu">Slides</a></li>
