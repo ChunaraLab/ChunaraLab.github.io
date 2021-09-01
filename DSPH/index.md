@@ -44,14 +44,16 @@ problem(s)"
 <ol>
   <li>What is data science
     <ul>
-      <li>Section One</li>
-      <li>Section Two </li>
+      <li>Slides</li>
+      <li><a href="https://www.nyu.edu">Exercises [R Code]</a></li>
       <li>Section Three </li>
     </ul>
   </li>
   <li>Chapter Two</li>
   <li>Chapter Three  </li>
 </ol>
+
+
 
 
 
