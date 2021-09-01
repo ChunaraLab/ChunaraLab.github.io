@@ -50,14 +50,16 @@ problem(s)"
 	  <li><a href="www.nyu.edu">1.1 Machine learning versus statistical approaches </a></li>
 	</ul>     
       <li><a href="https://www.nyu.edu">Exercises [R Code]</a></li>
+   	<ul>
+          <li> Setting up the analysis environment </li>
+          <li> Loading data </li>
+          <li> Preparing and exploring the data </li>
+        </ul>
     </ul>
   </li>
   <li>Data in public health</li>
   <li>Chapter Three  </li>
 </ol>
-
-
-
 
 
 ## Feedback
