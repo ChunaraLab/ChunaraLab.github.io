@@ -41,7 +41,8 @@ problem(s)"
 ## Modules
 {: .d-block }
 
-What is data science?
+<ol>
+<li>What is data science?
 
 <ul>
 	<li>Slides:
@@ -50,7 +51,7 @@ What is data science?
 		<li> <a href="www.nyu.edu">1.1 Machine learning versus statistical approaches </a></li>
 	</ul>
 
-	<li> <a href="https://www.nyu.edu">Activity [R Code]</a></li> 
+	<li> <a href="https://www.nyu.edu">Exercises [R Code]</a></li> 
 	<ul>
 		<li> Setting up the analysis environment </li>
 		<li> Loading data </li>
@@ -58,7 +59,8 @@ What is data science?
 	</ul>
 
 </ul>
- 
+</li>
+</ol> 
 
 ## Feedback
 
