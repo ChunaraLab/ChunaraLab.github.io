@@ -61,7 +61,7 @@ In order to demonstrate the use of machine learning across aspects of health, co
 </ul>
 
 2. Data in public health
-<ul style="PADDING-LEFT: 25px">
+<ul style="PADDING-LEFT: 50px">
 <li>Slides:
 <ul>
 <li> <a href="www.nyu.edu">2.0 Data in public health </a></li>
