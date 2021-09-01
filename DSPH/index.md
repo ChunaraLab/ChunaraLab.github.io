@@ -58,7 +58,14 @@ problem(s)"
     </ul>
   </li>
   <li>Data in public health</li>
-  <li>Chapter Three  </li>
+  <li>Visualization and communication </li>
+   <ul>
+    <li><a href="www.nyu.edu">Slides</a></li>
+    <li>Papers:</li>
+      <ul>
+       <li> VIz PAPERS</li>
+      </ul>
+   </ul>
   <li>Health disparities and bias in Data Science, Machine Learning and Artificial Intelligence
     <ul>
       <li>Slides</li>
