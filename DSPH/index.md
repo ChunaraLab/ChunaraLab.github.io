@@ -25,7 +25,7 @@ This 5-session (2 hours each session), 1 credit course, delivered over zoom, wil
 ## Pre-requisites
 This course will be a good introduction for anyone interested in learning how data science can be used in public health and biomedicine, and what kinds of skills and problems are involved. Previous exposure and experience in epidemiology, biostatistics research and/or practice will be assumed. Students should also have some experience working with data and a working knowledge of the principles of linear regression and statistics. Course examples will be in R so a working knowledge will also be required, or students should go through an online introduction prior to enrolling.
 
-## Assignments
+## Learning Opportunitiess
 <ul>
 <li>Analyses: A case study will be described, and with sample code, students will implement a machine learning analysis, identifying methodological and substantive tradeoffs in the implementation process.
 </li>
@@ -47,10 +47,9 @@ In order to demonstrate the use of machine learning across aspects of health, co
 
 <details>
 <summary>1. What is data science?</summary>
-<li> <a href="https://www.nature.com/articles/nature12060?page=32">
-Slides
-</a>  
-</li>
+<li> <a href="https://www.nature.com/articles/nature12060?page=32">Slides</a></li>
+<li> Papers </li>
+<li> Assignment <a href="https://www.nyu.edu>[R Code]</a></li>
 </details>
 <details>
 <summary>2. Data in public health</summary>
