@@ -73,11 +73,12 @@ researchers." Value in Health 22.7 (2019): 808-815.</li>
 threats." PLoS Medicine 15.11 (2018): e1002702. </li>
 <li> Panch, T., Pearson-Stuttard, J., Greaves, F. and Atun, R., 2019. Artificial intelligence: opportunities and risks for public health. The Lancet Digital Health, 1(1), pp.e13-e14.</li> 
 </li>
-<li> Assignment <a href="https://www.nyu.edu">[R Code]</a></li>
+<li> Assignment <a href="https://www.nyu.edu">[R Markdown]</a></li>
 </details>
+
 4. Visualization and Communication
 <li> <a href="https://www.nature.com/articles/nature12060?page=32">Slides</a></li>
-<li> Papers: </li>
+<li> Assignment <a href="www.nyu.edu">[R Markdown]</a></li>
 
 5. Health disparities and bias in Data Science, Machine Learning and Artificial Intelligence
 <li> <a href="https://www.nature.com/articles/nature12060?page=32">Slides</a></li>
