@@ -59,8 +59,7 @@ In order to demonstrate the use of machine learning across aspects of health, co
 <li> Loading data </li>
 <li> Preparing and exploring the data </li>
 </ul>
-</ul>
-
+</ul style="PADDING-LEFT: 50px">
 
 2. Data in public health
 <ul style="PADDING-LEFT: 25px">
@@ -87,6 +86,7 @@ outbreak via mobile phones and SMS." NPJ digital medicine 1.1 (2018): 1-8.</li>
 <ul style="PADDING-LEFT: 25px">
 <li>Slides:
 <ul>
+
 <li> Papers: 
 <li> Doupe, Patrick, James Faghmous, and Sanjay Basu. "Machine learning for health services
 researchers." Value in Health 22.7 (2019): 808-815.</li>
