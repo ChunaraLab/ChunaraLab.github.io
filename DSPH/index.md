@@ -59,7 +59,6 @@ In order to demonstrate the use of machine learning across aspects of health, co
 <li> Loading data </li>
 <li> Preparing and exploring the data </li>
 </ul>
-</ul style="PADDING-LEFT: 50px">
 
 2. Data in public health
 <ul style="PADDING-LEFT: 25px">
