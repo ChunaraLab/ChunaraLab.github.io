@@ -37,14 +37,9 @@ This course will be a good introduction for anyone interested in learning how da
 problem(s)"
 </li>
 </ul>
-<!--
--->
 
 ## Modules
 {: .d-block }
-
-In order to demonstrate the use of machine learning across aspects of health, comprehensively, we developed a taxonomy of Machine Learning in <i>health</i> tasks (broadly) and list example studies below.
-
 
 1. What is data science?
 
@@ -64,55 +59,6 @@ In order to demonstrate the use of machine learning across aspects of health, co
 
 </ul>
 
-2. Data in public health
-<ul style="PADDING-LEFT: 50px">
-<li>Slides:
-<ul>
-<li> <a href="www.nyu.edu">2.0 Data in public health </a></li>
-</ul>
-<li>Papers:</li> 
-<ul>
-<li> Chan, Yu-Feng Yvonne, et al. "The Asthma Mobile Health Study, a large-scale clinical observational
-study using ResearchKit." Nature biotechnology 35.4 (2017): 354.</li>
-<li>Feng, Shuo, Karen A. Grépin, and Rumi Chunara. "Tracking health seeking behavior during an Ebola
-outbreak via mobile phones and SMS." NPJ digital medicine 1.1 (2018): 1-8.</li>
-<li>Zhao, Y., Wood, E.P., Mirin, N., Cook, S.H. and Chunara, R., 2021. Social Determinants in Machine Learning Cardiovascular Disease Prediction Models: A Systematic Review. American Journal of Preventive Medicine.</li>
-</ui>
-<li> <a href="https://www.nyu.edu">Activity [R Code]</a></li> 
-<ul>
-<li> Implementing an algorithm and parameter selection</li>
-<li> Feature selection </li>
-</ul>
-</ul style="PADDING-LEFT: 25px">
-
-3. Machine Learning
-<ul style="PADDING-LEFT: 25px">
-<li>Slides:
-<ul>
-
-<li> Papers: 
-<li> Doupe, Patrick, James Faghmous, and Sanjay Basu. "Machine learning for health services
-researchers." Value in Health 22.7 (2019): 808-815.</li>
-<li> Flaxman, Abraham D., and Theo Vos. "Machine learning in population health: Opportunities and
-threats." PLoS Medicine 15.11 (2018): e1002702. </li>
-<li> Panch, T., Pearson-Stuttard, J., Greaves, F. and Atun, R., 2019. Artificial intelligence: opportunities and risks for public health. The Lancet Digital Health, 1(1), pp.e13-e14.</li> 
-</li>
-<li> Assignment <a href="https://www.nyu.edu">[R Markdown]</a></li>
-</details>
-
-4. Visualization and Communication
-<li> <a href="https://www.nature.com/articles/nature12060?page=32">Slides</a></li>
-<li> Assignment <a href="www.nyu.edu">[R Markdown]</a></li>
-
-5. Health disparities and bias in Data Science, Machine Learning and Artificial Intelligence
-<li> <a href="https://www.nature.com/articles/nature12060?page=32">Slides</a></li>
-<li> Papers: 
-<li> Obermeyer, Ziad, et al. "Dissecting racial bias in an algorithm used to manage the health of
-populations." Science 366.6464 (2019): 447-453.</li>
-<li>Mhasawade, V., Zhao, Y. and Chunara, R., 2021. Machine learning and algorithmic fairness in public and population health. Nature Machine Intelligence, pp.1-8.</li>
-<li>Doupe, Patrick, James Faghmous, and Sanjay Basu. "Machine learning for health services
-researchers." Value in Health 22.7 (2019): 808-815.</li>
-i</li>
 
 
  
