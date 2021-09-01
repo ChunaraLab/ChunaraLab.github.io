@@ -27,15 +27,17 @@ This course will be a good introduction for anyone interested in learning how da
 
 ## Assignments
 <ul>
-<li>Analyses
+<li>Analyses: A case study will be described, and with sample code, students will implement a machine learning analysis, identifying methodological and substantive tradeoffs in the implementation process.
+</li>
+<li>Project: Students will, with their own or a provided dataset, design an analysis appropriate for a task of their choosing. With the instructor, students will work through common challenges in the design and potentially in implementation of the approach.
+</li>
+<li>Readings: State-of-the-art studies using machine learning in public health will be read and methodological, health contributions and ethical issues will be studied and discussed.
+</li>
+<li>Design: Students will design visualization and communication appropriate for the example
+problem(s)"
 </li>
 </ul>
 <!--
-●    Analyses: A case study will be described, and with sample code, students will implement a machine learning analysis, identifying methodological and substantive tradeoffs in the implementation process
-●    Project: Students will, with their own or a provided dataset, design an analysis appropriate for a task of their choosing. With the instructor, students will work through common challenges in the design and potentially in implementation of the approach
-●    Readings: State-of-the-art studies using machine learning in public health will be read and methodological, health contributions and ethical issues will be studied and discussed
-●    Design: Students will design visualization and communication appropriate for the example
-problem(s)"
 -->
 
 ## Modules
