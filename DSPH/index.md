@@ -49,7 +49,7 @@ In order to demonstrate the use of machine learning across aspects of health, co
 <summary>1. What is data science?</summary>
 <li> <a href="https://www.nature.com/articles/nature12060?page=32">Slides</a></li>
 <li> Papers </li>
-<li> Assignment <a href="https://www.nyu.edu>[R Code]</a></li>
+<li> Assignment <a href="https://www.nyu.edu">[R Code]</a></li>
 </details>
 <details>
 <summary>2. Data in public health</summary>
