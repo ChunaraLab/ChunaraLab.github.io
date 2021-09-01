@@ -62,7 +62,7 @@ problem(s)"
   <li>Health disparities and bias in Data Science, Machine Learning and Artificial Intelligence
     <ul>
       <li>Slides</li>
-      <li> Papers:
+      <li> Papers:</li>
         <ul>
 	 <li> Obermeyer, Ziad, et al. "Dissecting racial bias in an algorithm used to manage the health of
 populations." Science 366.6464 (2019): 447-453.</li>
