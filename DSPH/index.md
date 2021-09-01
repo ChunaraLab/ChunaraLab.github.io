@@ -80,7 +80,7 @@ outbreak via mobile phones and SMS." NPJ digital medicine 1.1 (2018): 1-8.</li>
 <li> Implementing an algorithm and parameter selection</li>
 <li> Feature selection </li>
 </ul>
-
+</ul style="PADDING-LEFT: 25px">
 
 3. Machine Learning
 <ul style="PADDING-LEFT: 25px">
