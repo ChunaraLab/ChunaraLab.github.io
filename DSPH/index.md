@@ -46,7 +46,8 @@ problem(s)"
     <ul>
       <li>Slides</li>
 	<ul>
-	  <li>test</li> 
+	  <li><a href="www.nyu.edu">1.0 What is data science?</a></li>
+	  <li><a href="www.nyu.edu">1.1 Machine learning versus statistical approaches </a></li>
 	</ul>     
       <li><a href="https://www.nyu.edu">Exercises [R Code]</a></li>
     </ul>
