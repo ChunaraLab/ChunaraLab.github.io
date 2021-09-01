@@ -25,11 +25,18 @@ This 5-session (2 hours each session), 1 credit course, delivered over zoom, wil
 ## Pre-requisites
 This course will be a good introduction for anyone interested in learning how data science can be used in public health and biomedicine, and what kinds of skills and problems are involved. Previous exposure and experience in epidemiology, biostatistics research and/or practice will be assumed. Students should also have some experience working with data and a working knowledge of the principles of linear regression and statistics. Course examples will be in R so a working knowledge will also be required, or students should go through an online introduction prior to enrolling.
 
-## Goals, Overview and Slides
-The goals of this tutorial are to:<br>
-1) Familiarize the audience with research in public and population health<br>
-2) Identify open areas relevant to machine learning and health equity<br>
-3) Activate the machine learning community on challenges in public/population health<br>
+## Assignments
+<ul>
+<li>Analyses
+</li>
+</ul>
+<!--
+●    Analyses: A case study will be described, and with sample code, students will implement a machine learning analysis, identifying methodological and substantive tradeoffs in the implementation process
+●    Project: Students will, with their own or a provided dataset, design an analysis appropriate for a task of their choosing. With the instructor, students will work through common challenges in the design and potentially in implementation of the approach
+●    Readings: State-of-the-art studies using machine learning in public health will be read and methodological, health contributions and ethical issues will be studied and discussed
+●    Design: Students will design visualization and communication appropriate for the example
+problem(s)"
+-->
 
 ## Modules
 {: .d-block }
