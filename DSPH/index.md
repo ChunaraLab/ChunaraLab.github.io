@@ -59,7 +59,7 @@ problem(s)"
   </li>
   <li>Data in public health</li>
   <li>Chapter Three  </li>
-  <li>Health disparities and bias in Data Science, Machine Learning and Artificial Intelligence</li>
+  <li>Health disparities and bias in Data Science, Machine Learning and Artificial Intelligence
     <ul>
       <li>Slides</li>
       <li> Papers:
@@ -69,9 +69,8 @@ populations." Science 366.6464 (2019): 447-453.</li>
 	 <li>Mhasawade, V., Zhao, Y. and Chunara, R., 2021. Machine learning and algorithmic fairness in public and population health. Nature Machine Intelligence, pp.1-8.</li>
 	 <li>Doupe, Patrick, James Faghmous, and Sanjay Basu. "Machine learning for health services
 researchers." Value in Health 22.7 (2019): 808-815.</li>
-
 	</ul>
-      </ul>
+     </ul>
    </li>
 </ol>
 
