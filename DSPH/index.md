@@ -41,16 +41,13 @@ problem(s)"
 ## Modules
 {: .d-block }
 
-
-
-
 <ol>
-  <li>Chapter One
-    <ol>
+  <li>What is data science
+    <ul>
       <li>Section One</li>
       <li>Section Two </li>
       <li>Section Three </li>
-    </ol>
+    </ul>
   </li>
   <li>Chapter Two</li>
   <li>Chapter Three  </li>
