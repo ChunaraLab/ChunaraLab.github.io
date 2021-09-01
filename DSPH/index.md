@@ -84,7 +84,9 @@ outbreak via mobile phones and SMS." NPJ digital medicine 1.1 (2018): 1-8.</li>
 
 
 3. Machine Learning
-<li> <a href="https://www.nature.com/articles/nature12060?page=32">Slides</a></li>
+<ul style="PADDING-LEFT: 25px">
+<li>Slides:
+<ul>
 <li> Papers: 
 <li> Doupe, Patrick, James Faghmous, and Sanjay Basu. "Machine learning for health services
 researchers." Value in Health 22.7 (2019): 808-815.</li>
