@@ -41,26 +41,22 @@ problem(s)"
 ## Modules
 {: .d-block }
 
+
+
+
 <ol>
-<li>What is data science?
+  <li>Chapter One
+    <ol>
+      <li>Section One</li>
+      <li>Section Two </li>
+      <li>Section Three </li>
+    </ol>
+  </li>
+  <li>Chapter Two</li>
+  <li>Chapter Three  </li>
+</ol>
 
-<ul>
-	<li>Slides:
-	<ul>
-		<li> <a href="www.nyu.edu">1.0 What is data science? </a></li>
-		<li> <a href="www.nyu.edu">1.1 Machine learning versus statistical approaches </a></li>
-	</ul>
 
-	<li> <a href="https://www.nyu.edu">Exercises [R Code]</a></li> 
-	<ul>
-		<li> Setting up the analysis environment </li>
-		<li> Loading data </li>
-		<li> Preparing and exploring the data </li>
-	</ul>
-
-</ul>
-</li>
-</ol> 
 
 ## Feedback
 
