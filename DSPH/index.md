@@ -2,6 +2,9 @@
 layout: default
 title: Data Science and Machine Learning in Public Health
 description: A short course to introduce and frame data science and machine learning skills within the principles and priorities of public health. 
+
+[R. Chunara](https://rumichunara.github.io)
+
 nav_order: 1
 ---
 
@@ -95,5 +98,5 @@ researchers." Value in Health 22.7 (2019): 808-815.</li>
 
 
 ## Delivery
-This short course was delivered as a 1-credit course at the [NYU School of Global Public Health](https://publichealth.nyu.edu), New York City, United States in Summer 2020. A modified version was delivered at [Aga Khan University](https://aku.edu) in Karachi, Pakistan in January 2021. 
+This short course was delivered as an online 1-credit course at the [NYU School of Global Public Health](https://publichealth.nyu.edu), New York City, United States in Summer 2021. A modified version was delivered at [Aga Khan University](https://aku.edu) in Karachi, Pakistan in January 2020. 
 
