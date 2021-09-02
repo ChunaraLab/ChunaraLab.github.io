@@ -16,7 +16,7 @@ This set of 5-modules, which can be delivered as a short course or workshop(s), 
 ## Pre-requisites
 This course will be a good introduction for anyone interested in learning how data science can be used in public health and biomedicine, and what kinds of skills and problems are involved. Previous exposure and experience in epidemiology, biostatistics research and/or practice will be assumed, and analytic methods introduced in context of such fields. In particular, students should have some experience working with data and a working knowledge of the principles of linear regression and statistics. Course examples will be in R so a working knowledge will also be required, or students should go through an online introduction prior to enrolling.
 
-## Learning Opportunitiess
+## Learning Opportunities
 The modules are designed around the following types of learning opportunities, providing a mix of hands-on interpretation, implementation and discussion.
 <ul>
 <li>Analyses: A case study will be described, and with sample code, students will implement a machine learning analysis, identifying methodological and substantive tradeoffs in the implementation process.
