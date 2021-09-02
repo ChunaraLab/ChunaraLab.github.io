@@ -11,12 +11,13 @@ nav_order: 1
 {:toc}
 
 ## Course Overview
-This 5-session (2 hours each session), 1 credit course, delivered over zoom, will introduce and encourage thinking around new datasets and analytic  methods in public health. The data science pipeline, across data gathering, processing, analysis and communication will be covered. Content will include summaries of current and best practices from the literature, discussion of research papers and methods in terms of their appropriateness in public health, and approaches to address methodological challenges. Content will relate to both infectious diseases such as COVID-19 and noncommunicable diseases. Students are encouraged to bring their own dataset or use publicly available ones to develop their own data science project, and time will be allotted for discussing project challenges.
+This set of 5-modules, which can be delivered as a short course or workshop(s), will introduce and encourage thinking around new data and analytic methods in public health. Topics relay and provide an introductory view to the importance of the entire data science pipeline, across data gathering, processing, analysis and communication. Content includes summaries of current and best practices from the literature, discussion of research papers and approaches to address methodological challenges. Methods will also be situated in context of public health priorities, relevant across non-communicable and communicable disease, maternal, perinatal, nutritional topics and injuries. Students are encouraged to bring their own dataset or use publicly available ones to develop their own data science project, and amongst other learning opportunities, time can be allotted for discussing project challenges.
 
 ## Pre-requisites
-This course will be a good introduction for anyone interested in learning how data science can be used in public health and biomedicine, and what kinds of skills and problems are involved. Previous exposure and experience in epidemiology, biostatistics research and/or practice will be assumed. Students should also have some experience working with data and a working knowledge of the principles of linear regression and statistics. Course examples will be in R so a working knowledge will also be required, or students should go through an online introduction prior to enrolling.
+This course will be a good introduction for anyone interested in learning how data science can be used in public health and biomedicine, and what kinds of skills and problems are involved. Previous exposure and experience in epidemiology, biostatistics research and/or practice will be assumed, and analytic methods introduced in context of such fields. In particular, students should have some experience working with data and a working knowledge of the principles of linear regression and statistics. Course examples will be in R so a working knowledge will also be required, or students should go through an online introduction prior to enrolling.
 
 ## Learning Opportunitiess
+The modules are designed around the following types of learning opportunities, providing a mix of hands-on interpretation, implementation and discussion.
 <ul>
 <li>Analyses: A case study will be described, and with sample code, students will implement a machine learning analysis, identifying methodological and substantive tradeoffs in the implementation process.
 </li>
@@ -24,8 +25,7 @@ This course will be a good introduction for anyone interested in learning how da
 </li>
 <li>Readings: State-of-the-art studies using machine learning in public health will be read and methodological, health contributions and ethical issues will be studied and discussed.
 </li>
-<li>Design: Students will design visualization and communication appropriate for the example
-problem(s)"
+<li>Design: Students will design visualization and communication appropriate for the example problem(s).
 </li>
 </ul>
 
@@ -84,7 +84,7 @@ outbreak via mobile phones and SMS." NPJ digital medicine 1.1 (2018): 1-8.</li>
     <li><a href="https://newclasses.nyu.edu/access/content/group/7a825336-b658-4bab-ac71-1fb475203187/dsmlph_module7_vis.pdf">Slides</a></li>
     <li>Papers:</li>
       <ul>
-       <li> VIz PAPERS</li>
+       <li>Dawkins-Moultin, L., McDonald, A. & McKyer, L. Integrating the principles of socioecology and critical pedagogy for health promotion health literacy interventions. J. Health Commun. 21, 30–35 (2016).</li>
       </ul>
    </ul>
   <li>Health disparities and bias in Data Science, Machine Learning and Artificial Intelligence
