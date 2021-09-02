@@ -31,7 +31,7 @@ problem(s)"
 
 ## Modules
 {: .d-block }
-The following five modules are included. Sample papers for discussion on each topic are included.
+The following five modules are included. Sample papers for discussion on each topic are listed.
 
 <ol>
   <li>What is data science
