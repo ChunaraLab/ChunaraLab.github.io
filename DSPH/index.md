@@ -51,7 +51,7 @@ The following five modules are included. Sample papers for discussion on each to
   </li>
   <li>Data in public health
     <ul>
-     <li>Slides</li>
+     <li><a href="https://newclasses.nyu.edu/portal/site/7a825336-b658-4bab-ac71-1fb475203187">Slides</a></li>
      <li><a href="https://newclasses.nyu.edu/portal/site/7a825336-b658-4bab-ac71-1fb475203187/tool/f2baf468-bc79-413e-840c-74d2fc6f66f8?panel=Main#">Exercises [R Code]</a></li>
         <ul>
           <li> Preparing and exploring the data </li>
@@ -68,7 +68,7 @@ outbreak via mobile phones and SMS." NPJ digital medicine 1.1 (2018): 1-8.</li>
    </li>
    <li>Machine Learning
      <ul>
-       <li>Slides</li>
+       <li><a href="https://newclasses.nyu.edu/portal/site/7a825336-b658-4bab-ac71-1fb475203187">Slides</a></li>
         <ul>
          <li><a href="https://newclasses.nyu.edu/access/content/group/7a825336-b658-4bab-ac71-1fb475203187/dsmlph_module2_mlstat.pdf">1.1 Machine learning versus statistical approaches </a></li>
         </ul>
@@ -89,7 +89,7 @@ outbreak via mobile phones and SMS." NPJ digital medicine 1.1 (2018): 1-8.</li>
    </ul>
   <li>Health disparities and bias in Data Science, Machine Learning and Artificial Intelligence
     <ul>
-      <li>Slides</li>
+      <li><a href="https://newclasses.nyu.edu/portal/site/7a825336-b658-4bab-ac71-1fb475203187">Slides</a></li>
       <li> Papers:</li>
         <ul>
 	 <li> Obermeyer, Ziad, et al. "Dissecting racial bias in an algorithm used to manage the health of
