@@ -68,6 +68,7 @@ study using ResearchKit." Nature biotechnology 35.4 (2017): 354.</li>
 outbreak via mobile phones and SMS." NPJ digital medicine 1.1 (2018): 1-8.</li>
          <li>Zhao, Y., Wood, E.P., Mirin, N., Cook, S.H. and Chunara, R., 2021. Social Determinants in Machine Learning Cardiovascular Disease Prediction Models: A Systematic Review. American Journal of Preventive Medicine.</li>
        </ul>
+    </ul>
    </li>
    <li>Visualization and communication </li>
    <ul>
