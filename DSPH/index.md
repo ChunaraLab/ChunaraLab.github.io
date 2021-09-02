@@ -68,9 +68,9 @@ outbreak via mobile phones and SMS." NPJ digital medicine 1.1 (2018): 1-8.</li>
    </li>
    <li>Machine Learning
      <ul>
-       <li><a href="https://newclasses.nyu.edu/portal/site/7a825336-b658-4bab-ac71-1fb475203187">Slides</a></li>
+       <li>Slides</li>
         <ul>
-         <li><a href="https://newclasses.nyu.edu/access/content/group/7a825336-b658-4bab-ac71-1fb475203187/dsmlph_module2_mlstat.pdf">1.1 Machine learning versus statistical approaches </a></li>
+         <li><a href="https://newclasses.nyu.edu/access/content/group/7a825336-b658-4bab-ac71-1fb475203187/dsmlph_module2_mlstat.pdf">3.1 Machine learning versus statistical approaches </a></li>
         </ul>
           <li><a href="https://newclasses.nyu.edu/portal/site/7a825336-b658-4bab-ac71-1fb475203187/tool/f2baf468-bc79-413e-840c-74d2fc6f66f8?panel=Main#">Exercises [R Code]</a></li>
             <ul>
