@@ -1,10 +1,7 @@
 ---
 layout: default
 title: Data Science and Machine Learning in Public Health
-description: A short course to introduce and frame data science and machine learning skills within the principles and priorities of public health. 
-
-[R. Chunara](https://rumichunara.github.io)
-
+description: A short course to introduce and frame data science and machine learning skills within the principles and priorities of public health by [R. Chunara](https://rumichunara.github.io).
 nav_order: 1
 ---
 
@@ -43,6 +40,7 @@ problem(s)"
 
 ## Modules
 {: .d-block }
+The following five modules are included. Each module may be accompanied with paper and other discussions.
 
 <ol>
   <li>What is data science
