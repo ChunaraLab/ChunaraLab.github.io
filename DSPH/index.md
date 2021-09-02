@@ -52,6 +52,10 @@ The following five modules are included. Sample papers for discussion on each to
   <li>Data in public health
     <ul>
      <li>Slides</li>
+     <li><a href="https://newclasses.nyu.edu/portal/site/7a825336-b658-4bab-ac71-1fb475203187/tool/f2baf468-bc79-413e-840c-74d2fc6f66f8?panel=Main#">Exercises [R Code]</a></li>
+        <ul>
+          <li> Preparing and exploring the data </li>
+        </ul>
      <li>Papers:</li>
        <ul>
          <li> Chan, Yu-Feng Yvonne, et al. "The Asthma Mobile Health Study, a large-scale clinical observational
@@ -71,7 +75,7 @@ outbreak via mobile phones and SMS." NPJ digital medicine 1.1 (2018): 1-8.</li>
           <li><a href="https://newclasses.nyu.edu/portal/site/7a825336-b658-4bab-ac71-1fb475203187/tool/f2baf468-bc79-413e-840c-74d2fc6f66f8?panel=Main#">Exercises [R Code]</a></li>
             <ul>
               <li> Implementing an algorithm </li>
-              <li> Feature and hyperparamter election</li>
+              <li> Feature and hyperparameter election</li>
         </ul>
       </ul>
    </li>   
