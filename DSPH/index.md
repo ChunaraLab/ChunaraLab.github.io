@@ -4,15 +4,6 @@ title: Data Science and Machine Learning in Public Health
 description: A short course to introduce and frame data science and machine learning skills within the principles and priorities of public health.
 nav_order: 1
 ---
-
-
-<!--
-This repository contains information about the tutorial [Machine Learning in Population and Public Health: challenges and opportunites](https://www.chilconference.org/tutorial_b.html) at [ACM Conference on Health, Information and Learning, 2020](https://www.chilconference.org/index.html). A full summary of the tutorial is provided in [this document](./docs/ACM_chil_tutorial_summary.pdf). Citation: <br/>
-**Mhasawade, Vishwali, Yuan Zhao, and Rumi Chunara. “Machine Learning in Population and Public Health.” ArXiv:2008.07278 [Cs], July 21, 2020. [http://arxiv.org/abs/2008.07278](http://arxiv.org/abs/2008.07278).**
-
-[Tutorial video found here.](https://slideslive.com/38931964/machine-learning-in-population-and-public-health-challenges-and-opportunities)
-
--->
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -47,10 +38,10 @@ The following five modules are included. Sample papers for discussion on each to
     <ul>
       <li>Slides</li>
 	<ul>
-	  <li><a href="www.nyu.edu">1.0 What is data science?</a></li>
-	  <li><a href="www.nyu.edu">1.1 Machine learning versus statistical approaches </a></li>
+	  <li><a href="https://newclasses.nyu.edu/access/content/group/7a825336-b658-4bab-ac71-1fb475203187/dsmlph_module1_intros.pdf">1.0 What is data science?</a></li>
+	  <li><a href="https://newclasses.nyu.edu/access/content/group/7a825336-b658-4bab-ac71-1fb475203187/dsmlph_module2_mlstat.pdf">1.1 Machine learning versus statistical approaches </a></li>
 	</ul>     
-      <li><a href="https://www.nyu.edu">Exercises [R Code]</a></li>
+      <li><a href="https://newclasses.nyu.edu/portal/site/7a825336-b658-4bab-ac71-1fb475203187/tool/f2baf468-bc79-413e-840c-74d2fc6f66f8?panel=Main#">Exercises [R Code]</a></li>
    	<ul>
           <li> Setting up the analysis environment </li>
           <li> Loading data </li>
@@ -73,7 +64,7 @@ outbreak via mobile phones and SMS." NPJ digital medicine 1.1 (2018): 1-8.</li>
    </li>
    <li>Visualization and communication </li>
    <ul>
-    <li><a href="www.nyu.edu">Slides</a></li>
+    <li><a href="https://newclasses.nyu.edu/access/content/group/7a825336-b658-4bab-ac71-1fb475203187/dsmlph_module7_vis.pdf">Slides</a></li>
     <li>Papers:</li>
       <ul>
        <li> VIz PAPERS</li>
